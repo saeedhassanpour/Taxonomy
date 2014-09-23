@@ -1,0 +1,102 @@
+imaging modality
+spectroscopy
+magnetic resonance imaging
+MR imaging
+MR
+MRI
+projection radiography
+general radiography
+x-ray
+XR
+xray
+radiography
+panographic radiograph
+fluoroscopy
+radiography-fluoroscopy
+radio-fluoro
+fluoro
+tomography
+nuclear medicine imaging
+NM
+dual energy xray absorptiometry
+DEXA
+dual energy x-ray absorptiometry
+DXA
+ultrasound
+echography
+ultrasonography
+US
+sonography
+magnetic resonance spectroscopy
+MRS
+spectro
+diffusion tensor imaging
+functional magnetic resonance imaging
+functional MRI
+fMRI
+magnetic resonance angiography
+MRA
+screen-film radiography
+conventional radiography
+plain film radiography
+dual-energy subtraction radiography
+digital radiography
+DR
+mammography
+mammo
+computed radiography
+CR
+computed tomography
+CT
+conventional tomography
+4-dimensional CT
+4-D CT
+4D CT
+low-energy scan
+high-energy scan
+quantitative computed tomography
+QCT
+quantitative CT
+dual-energy CT
+dual energy CT
+tomosynthesis
+single photon imaging
+scintigraphy
+molecular imaging
+bremsstrahlung imaging
+positron emission tomography
+PET
+planar nuclear medicine imaging
+single photon emission computed tomography
+SPECT
+SPECT-CT
+PET-MR
+PET-CT
+Doppler mode
+B-mode ultrasound
+gray scale ultrasound
+grayscale ultrasound
+4 dimensional ultrasound
+4D ultrasound
+stimulated acoustic emission
+SAE
+C-mode ultrasound
+strain imaging
+duplex ultrasound
+triplex ultrasound
+extended field of view ultrasound
+harmonic ultrasound
+A-mode ultrasound
+volume imaging
+three dimensional ultrasound
+3 dimensional ultrasound
+3D ultrasound
+elastography
+elasticity imaging
+color Doppler mode
+spectral Doppler mode
+pulsed wave Doppler mode
+power Doppler mode
+high intensity pulse
+low intensity pulse
+phase-cancellation harmonic ultrasound

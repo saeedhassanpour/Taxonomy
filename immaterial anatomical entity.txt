@@ -1,0 +1,3269 @@
+immaterial anatomical entity
+immaterial anatomic entity
+immaterial physical anatomical entity
+anatomical boundary entity
+anatomical space
+anatomical surface
+surface
+anatomical line
+anatomical point
+surface of region of bone organ
+articular surface
+mucosal surface
+anatomical plane
+fiat anatomical surface
+free edge of meniscus
+wall of space
+superior and inferior articular surface of meniscus
+inferior surface of tongue
+bona fide anatomical surface
+surface of region of humerus
+surface of subdivision of tarsal bone
+surface of region of tarsal bone
+surface of region of scapula
+surface of subdivision of hip bone
+surface of region of vertebra
+iliac fossa
+surface of subdivision of skull bone
+surface of epiphysis of humerus
+surface of head of humerus
+surface of surgical neck of humerus
+surface of diaphysis of humerus
+surface of anatomical neck of humerus
+surface of lesser tubercle of humerus
+surface of lesser tuberosity of humerus
+surface of region of surgical neck of humerus
+surface of greater tubercle of humerus
+surface of greater tuberosity of humerus
+surface of distal epiphysis of humerus
+surface of proximal epiphysis of humerus
+surface of distal epiphysis of left humerus
+surface of distal epiphysis of right humerus
+surface of proximal epiphysis of left humerus
+surface of proximal epiphysis of right humerus
+surface of head of right humerus
+surface of head of left humerus
+surface of surgical neck of right humerus
+surface of surgical neck of left humerus
+surface of diaphysis of left humerus
+surface of diaphysis of right humerus
+surface of anatomical neck of left humerus
+surface of anatomical neck of right humerus
+surface of lesser tubercle of left humerus
+surface of lesser tuberosity of left humerus
+surface of lesser tubercle of right humerus
+surface of lesser tuberosity of right humerus
+anterior surface of surgical neck of humerus
+lateral surface of surgical neck of humerus
+medial surface of surgical neck of humerus
+posterior surface of surgical neck of humerus
+anterior surface of surgical neck of right humerus
+anterior surface of surgical neck of left humerus
+lateral surface of surgical neck of left humerus
+lateral surface of surgical neck of right humerus
+medial surface of surgical neck of left humerus
+medial surface of surgical neck of right humerus
+posterior surface of surgical neck of left humerus
+posterior surface of surgical neck of right humerus
+surface of greater tubercle of left humerus
+surface of greater tuberosity of right humerus
+surface of greater tubercle of right humerus
+subdivision of surface of cuboid bone
+subdivision of surface of talus
+subdivision of surface of calcaneus
+subdivision of plantar surface of cuboid bone
+peroneal sulcus of cuboid
+fibularis longus surface of cuboid bone
+articular surface of cuboid bone for peroneus longus tendon
+posterior calcaneal articular surface
+sulcus tali
+middle calcaneal articular surface
+middle calcanean surface of talus
+calcaneal sulcus
+anterior articular facet of calcaneus
+anterior surface of calcaneus
+posterior articular facet of calcaneus
+posterior surface of calcaneus
+middle articular facet of calcaneus
+medial surface of calcaneus
+surface of coracoid process
+coracoid process surface
+surface of region of neck of scapula
+surface of glenoid proper of scapula
+surface of neck of scapula
+spinoglenoid notch
+surface of acromion
+acromion surface
+surface of body of scapula
+surface of region of spine of scapula
+surface of zone of spine of scapula
+surface of spine of scapula
+surface of glenoid part of scapula
+surface of right coracoid process
+right coracoid process surface
+surface of left coracoid process
+left coracoid process surface
+anterior surface of neck of scapula
+surface of anterior region of neck of scapula
+surface of anterior zone of neck of scapula
+surface of infraglenoid tubercle
+inferior surface of neck of scapula
+superior surface of neck of scapula
+surface of superior region of neck of scapula
+posterior surface of neck of scapula
+surface of posterior region of neck of scapula
+anterior surface of neck of left scapula
+surface of anterior zone of neck of left scapula
+surface of anterior region of neck of left scapula
+anterior surface of neck of right scapula
+surface of anterior zone of neck of right scapula
+surface of anterior region of neck of right scapula
+surface of left infraglenoid tubercle
+inferior surface of neck of left scapula
+surface of right infraglenoid tubercle
+inferior surface of neck of right scapula
+superior surface of neck of left scapula
+surface of superior region of neck of left scapula
+superior surface of neck of right scapula
+surface of superior region of neck of right scapula
+posterior surface of neck of left scapula
+surface of posterior region of neck of left scapula
+posterior surface of neck of right scapula
+surface of posterior region of neck of right scapula
+surface of glenoid proper of right scapula
+surface of glenoid proper of left scapula
+surface of neck of left scapula
+surface of neck of right scapula
+left spinoglenoid notch
+right spinoglenoid notch
+surface of left acromion
+left acromion surface
+surface of right acromion
+right acromion surface
+surface of body of left scapula
+surface of body of right scapula
+surface of spine proper of scapula
+surface of base of spine of scapula
+surface of crest of spine of scapula
+surface of root of spine of scapula
+surface of spine proper of left scapula
+surface of spine proper of right scapula
+surface of base of spine of left scapula
+surface of base of spine of right scapula
+surface of crest of spine of left scapula
+surface of crest of spine of right scapula
+surface of root of spine of left scapula
+surface of root of spine of right scapula
+surface of spine of left scapula
+surface of spine of right scapula
+surface of glenoid part of left scapula
+surface of glenoid part of right scapula
+acetabular fossa
+acetabular notch
+lunate surface of acetabulum
+articular facet of vertebral body
+demifacet of vertebral body
+articular facet of articular process of vertebra
+surface of zone of sphenoid bone
+surface of zone of palatine bone
+surface of zone of temporal bone
+maxillary surface of sphenoid bone
+maxillary surface of greater wing of sphenoid
+nasal surface of horizontal plate of palatine bone
+palatine surface of horizontal plate of palatine bone
+palatine surface of palatine bone
+mastoid notch of temporal bone
+anterior surface of petrous part of temporal bone
+inferior surface of petrous part of temporal bone
+posterior surface of petrous part of temporal bone
+arcuate eminence
+subarcuate fossa of temporal bone
+articular surface of temporomandibular joint
+articular surface of subtalar joint
+articular surface of metatarsophalangeal joint
+articular surface of proximal interphalangeal joint of toe
+articular surface of glenohumeral joint
+articular surface of radiocapitellar joint
+articular surface of tarsometatarsal joint
+articular surface of intercuneiform joint
+articular surface of cuneocuboid joint
+articular surface of humeroulnar joint
+articular surface of naviculocuboid joint
+articular surface of calcaneocuboid joint
+articular surface of talonavicular joint
+articular surface of naviculocuneiform joint
+articular surface of ankle joint
+articular surface of distal interphalangeal joint of toe
+articular surface of proximal tibiofibular joint
+articular cartilage of middle calcaneal facet
+articular cartilage of posterior calcaneal facet
+articular cartilage of tibial body
+articular cartilage of anterior calcaneal facet
+articular cartilage of proximal phalangeal base
+articular cartilage of metatarsal head
+articular cartilage of head of proximal phalanx of toe
+articular cartilage of base of middle phalanx of toe
+articular cartilage of glenoid cavity
+articular cartilage of humeral head
+articular cartilage of fifth metatarsal base
+articular cartilage of distal medial cuneiform
+articular cartilage of distal intermediate cuneiform
+articular cartilage of distal cuboid
+articular cartilage of distal lateral cuneiform
+articular cartilage of second metatarsal base
+articular cartilage of first metatarsal base
+articular cartilage of fourth metatarsal base
+articular cartilage of third metatarsal base
+articular cartilage of lateral aspect of intermediate cuneiform
+articular cartilage of medial aspect of intermediate cuneiform
+articular cartilage of medial aspect of lateral cuneiform
+articular cartilage of lateral aspect of medial cuneiform
+articular cartilage of distal medial cuboid
+articular cartilage of lateral aspect of lateral cuneiform
+articular cartilage of lateral navicular
+articular cartilage of proximal medial cuboid
+articular cartilage of distal calcaneus
+articular cartilage of proximal cuboid
+articular cartilage of talar head
+articular cartilage of proximal tarsal navicular
+articular cartilage of proximal medial cuneiform
+articular cartilage of distal tarsal navicular
+articular cartilage of proximal lateral cuneiform
+articular cartilage of proximal intermediate cuneiform
+articular cartilage of lateral malleolus
+articular cartilage of medial malleolus
+articular cartilage of tibial plafond
+articular cartilage of talar dome
+articular cartilage of head of middle phalanx of toe
+articular cartilage of base of distal phalanx of toe
+articular cartilage of fibular facet of tibia
+articular cartilage of fibular head
+retromolar trigone
+single plane
+single-plane
+multiple plane
+mul
+extraforaminal plane
+axial plane
+transaxial plane
+imaging plane
+image plane
+oblique plane
+sagittal plane disc location
+sagittal plane
+paramedian plane
+sag
+parasagittal plane
+foraminal plane
+axial pedicular plane
+coronal plane
+longitudinal plane
+long axis
+far lateral plane
+anterior plane
+anchored anatomical plane
+subarticular plane
+central plane
+infrapedicular plane
+discal plane
+suprapedicular plane
+sagittal pedicular plane
+vertical long axis
+horizontal long axis
+occipital plane
+thoraco-abdominal plane
+plane of anatomical junction
+anatomical junction plane
+anatomical transverse plane
+short axis
+transverse plane
+plane of esophagogastric junction
+esophagogastric junction plane
+plane of gastroduodenal junction
+gastroduodenal junction plane
+plane of esophageal hiatus of diaphragm
+plane of pelvic inlet
+pelvic inlet plane
+transpyloric plane
+addison plane
+surface of organ system subdivision
+organ system subdivision surface
+body surface region
+region of organ surface
+organ surface region
+surface of organ region
+surface of anatomical cluster
+surface of organ
+internal surface of intestine
+external surface of intestine
+subdivision of surface of skull
+surface of intestine
+intestinal surface
+groove of frontal bone for superior sagittal sinus
+cerebellar fossa of occipital bone
+cerebral fossa of occipital bone
+surface of subdivision of principal body part
+principal body part subdivision surface
+subdivision of surface of head proper
+surface of subdivision of trunk
+surface of subdivision of head proper
+subdivision of surface of external ear
+surface of pinna
+antihelical fossa
+triangular fossa of antihelix
+scapha
+scaphoid fossa of pinna
+groove of crus of helix
+posterior auricular groove
+inferior lumbar triangle
+Triangle of Petit
+superior lumbar triangle
+Lesshaft space
+Grynfelt triangle
+Lesshaft triangle
+surface of abdomen
+abdominal surface
+subdivision of surface of abdomen
+subdivision of surface of posterior part of abdomen
+surface of back of abdomen
+surface of anterior part of abdomen
+surface of vertebral part of abdomen
+surface of lumbar part of abdomen
+surface of epigastrium
+epigastrium surface
+surface of hypochondrium
+hypochondrium surface
+subdivision of surface of umbilicus
+surface of inguinal part of abdomen
+surface of right hypochondrium
+right hypochondrium surface
+surface of left hypochondrium
+left hypochondrium surface
+surface of umbilicus
+umbilical surface
+surface proper of umbilicus
+surface of right inguinal part of abdomen
+surface of left inguinal part of abdomen
+region of surface of stomach
+region of surface of large intestine
+region of surface of uterus
+region of surface of gallbladder
+region of surface of ileocecal valve
+region of surface of eyeball
+region of external surface of thoracic part of esophagus
+fossa of oval window
+region of surface of viscerocranial mucosa
+region of surface of adrenal
+fossa of incus
+region of surface of muscle organ
+region of surface of pancreas
+region of external surface of esophagus
+region of surface of prostate
+region of surface of bone organ
+region of surface of peritoneal sac
+region of surface of ovary
+region of surface of kidney
+region of surface of liver
+region of external surface of cervical part of esophagus
+region of surface of urinary bladder
+region of surface of lung
+fossa of round window
+region of external surface of abdominal part of esophagus
+region of surface of tooth
+region of surface of spleen
+navicular fossa of urethra
+anterior surface of stomach
+posterior surface of stomach
+anterior surface of pylorus
+anterior surface of pyloric antrum
+anterior surface of pyloric canal
+anterior surface of body of stomach
+anterior surface of cardia of stomach
+anterior surface of fundus of stomach
+posterior surface of body of stomach
+posterior surface of pyloric antrum
+posterior surface of cardia of stomach
+posterior surface of fundus of stomach
+posterior surface of pylorus
+posterior surface of pyloric canal
+anterior surface of segment of large intestine
+posterior surface of zone of large intestine
+anterior surface of appendix
+anterior surface of cecum
+anterior surface of rectum
+anterior surface of descending colon
+anterior surface of sigmoid colon
+anterior surface of ascending colon
+anterior surface of transverse colon
+anterior surface of colon
+posterior surface of colon
+posterior surface of appendix
+posterior surface of cecum
+posterior surface of rectum
+posterior surface of descending colon
+posterior surface of sigmoid colon
+posterior surface of ascending colon
+posterior surface of transverse colon
+anterior surface of uterus
+non-peritoneal surface of uterus
+posterior surface of uterus
+peritoneal surface of uterus
+inferior surface of gallbladder
+superior surface of gallbladder
+cecal surface of ileocecal valve
+ileal surface of ileocecal valve
+hyaloid fossa
+depression of optic disc
+anterior surface of thoracic part of esophagus
+posterior surface of thoracic part of esophagus
+lateral surface of thoracic part of esophagus
+right lateral surface of thoracic part of esophagus
+left lateral surface of thoracic part of esophagus
+agger nasi
+limen nasi
+torus tubarius
+torus of pharyngotympanic tube
+epiglottic vallecula
+vallecula of epiglotis
+renal surface of adrenal gland
+anterior surface of adrenal gland
+posterior surface of adrenal gland
+renal surface of left adrenal gland
+renal surface of right adrenal gland
+anterior surface of right adrenal gland
+anterior surface of left adrenal gland
+posterior surface of left adrenal gland
+posterior surface of right adrenal gland
+region of surface of pectineus
+region of surface of teres major
+region of surface of teres major muscle
+region of surface of subscapularis muscle
+region of surface of sartorius
+region of surface of iliacus
+region of surface of teres minor
+region of surface of triceps brachii
+region of surface of triceps brachii muscle
+region of surface of adductor longus
+region of surface of psoas major
+region of surface of scalenus medius
+region of surface of scalenus anterior
+region of surface of pectoralis minor muscle
+surface proper of pectineus
+femoral triangle part of surface of pectineus
+surface proper of left pectineus
+surface proper of right pectineus
+femoral triangle part of surface of left pectineus
+femoral triangle part of surface of right pectineus
+quadrilateral segment of superior surface of teres major
+quadrilateral segment of inferior surface of teres major muscle
+quadrangular segment of inferior surface of teres major
+anterior surface of teres major
+anterior surface of teres major muscle
+inferior surface of teres major
+inferior surface of teres major muscle
+superior surface of teres major
+superior surface of teres major muscle
+posterior surface of teres major
+posterior surface of teres major muscle
+quadrilateral segment of superior surface of left teres major
+quadrilateral segment of superior surface of right teres major
+anterior surface of right teres major
+anterior surface of left teres major
+inferior surface of left teres major
+inferior surface of right teres major
+superior surface of left teres major
+superior surface of right teres major
+posterior surface of left teres major
+posterior surface of right teres major
+anterior surface of subscapularis muscle
+posterior surface of subscapularis muscle
+anterior surface of left subscapularis muscle
+anterior surface of right subscapularis muscle
+posterior surface of left subscapularis muscle
+posterior surface of right subscapularis muscle
+surface proper of sartorius
+femoral triangle part of surface of sartorius
+surface proper of left sartorius
+surface proper of right sartorius
+femoral triangle part of surface of left sartorius
+femoral triangle part of surface of right sartorius
+femoral triangle part of surface of iliacus
+surface proper of iliacus
+femoral triangle part of surface of left iliacus
+femoral triangle part of surface of right iliacus
+surface proper of left iliacus
+surface proper of right iliacus
+superior surface of teres minor
+superior surface of teres minor muscle
+posterior surface of teres minor
+posterior surface of teres minor jmuscle
+quadrilateral segment of inferior surface of teres minor
+quadrangular segment of inferior surface of teres minor
+quadrilateral segment of inferior surface of teres minor muscle
+anterior surface of teres minor
+anterior surface of teres minor muscle
+inferior surface of teres minor
+inferior surface of teres minor muscle
+superior surface of left teres minor
+superior surface of right teres minor
+posterior surface of left teres minor
+posterior surface of left teres minor muscle
+posterior surface of right teres minor
+posterior surface of right teres minor muscle
+quadrilateral segment of inferior surface of left teres minor
+quadrilateral segment of inferior surface of right teres minor
+anterior surface of left teres minor
+anterior surface of left teres minor muscle
+anterior surface of right teres minor
+anterior surface of right teres minor muscle
+inferior surface of left teres minor
+inferior surface of right teres minor
+lateral surface of tendon of long head of triceps brachii
+lateral surface of tendon of long head of triceps brachii muscle
+anterior surface of long head of triceps brachii
+anterior surface of long head of triceps brachii muscle
+posterior surface of tendon of long head of triceps brachii
+lateral surface of long head of triceps brachii
+lateral surface of long head of triceps brachii muscle
+anterior surface of tendon of long head of triceps brachii
+surface of medial head of triceps brachii
+surface of medial head of triceps brachii muscle
+medial surface of long head of triceps brachii
+medial surface of long head of triceps brachii muscle
+surface of lateral head of triceps brachii
+surface of lateral head of triceps brachii muscle
+surface of tendon of lateral head of triceps brachii
+surface of tendon of lateral head of triceps brachii muscle
+medial surface of tendon of long head of triceps brachii
+posterior surface of long head of triceps brachii
+posterior surface of long head of triceps brachii muscle
+surface of tendon of long head of triceps brachii
+surface of tendon of long head of triceps brachii muscle
+surface of long head of triceps brachii
+surface of long head of triceps brachii muscle
+lateral surface of tendon of long head of left triceps brachii
+lateral surface of tendon of long head of right triceps brachii
+anterior surface of long head of left triceps brachii
+anterior surface of long head of right triceps brachii
+posterior surface of tendon of long head of left triceps brachii
+posterior surface of tendon of long head of right triceps brachii
+lateral surface of long head of left triceps brachii
+lateral surface of long head of right triceps brachii
+anterior surface of tendon of long head of left triceps brachii
+anterior surface of tendon of long head of right triceps brachii
+surface of medial head of left triceps brachii
+surface of medial head of right triceps brachii
+medial surface of long head of right triceps brachii
+medial surface of long head of left triceps brachii
+surface of lateral head of left triceps brachii
+surface of lateral head of right triceps brachii
+surface of tendon of lateral head of left triceps brachii
+surface of tendon of lateral head of right triceps brachii
+medial surface of tendon of long head of left triceps brachii
+medial surface of tendon of long head of right triceps brachii
+posterior surface of long head of left triceps brachii
+posterior surface of long head of right triceps brachii
+surface of tendon of long head of left triceps brachii
+surface of tendon of long head of right triceps brachii
+surface of long head of left triceps brachii
+surface of long head of right triceps brachii
+surface proper of adductor longus
+femoral triangle part of surface of adductor longus
+surface proper of left adductor longus
+surface proper of right adductor longus
+femoral triangle part of surface of left adductor longus
+femoral triangle part of surface of right adductor longus
+surface proper of psoas major
+femoral triangle part of surface of psoas major
+surface proper of left psoas major
+surface proper of right psoas major
+femoral triangle part of surface of left psoas major
+femoral triangle part of surface of right psoas major
+medial surface of medial scalenus medius
+medial surface of middle scalene
+lateral surface of scalenus medius
+lateral surface of middle scalene
+medial surface of scalenus medius
+posterior surface of scalenus medius
+posterior surface of middle scalene
+anterior surface of scalenus medius
+anterior surface of middle scalene
+lateral surface of left scalenus medius
+lateral surface of left middle scalene
+lateral surface of right scalenus medius
+lateral surface of right middle scalene
+medial surface of left medial scalenus medius
+medial surface of left middle scalene
+medial surface of right medial scalenus medius
+medial surface of right middle scalene
+posterior surface of left scalenus medius
+posterior surface of left middle scalene
+posterior surface of right scalenus medius
+posterior surface of right middle scalene
+anterior surface of left scalenus medius
+anterior surface of left middle scalene
+anterior surface of right scalenus medius
+anterior surface of right middle scalene
+lateral surface of scalenus anterior
+posterior surface of scalenus anterior
+anterior surface of scalenus anterior
+medial surface of scalenus anterior
+lateral surface of left scalenus anterior
+lateral surface of right scalenus anterior
+posterior surface of left scalenus anterior
+posterior surface of right scalenus anterior
+anterior surface of left scalenus anterior
+anterior surface of right scalenus anterior
+medial surface of left scalenus anterior
+medial surface of right scalenus anterior
+posterior surface of pectoralis minor muscle
+anterior surface of pectoralis minor muscle
+posterior surface of left pectoralis minor muscle
+posterior surface of right pectoralis minor muscle
+anterior surface of left pectoralis minor muscle
+anterior surface of right pectoralis minor muscle
+peritoneal surface of pancreas
+posterior surface of pancreas
+anterior surface of pancreas
+posterior surface of tail of pancreas
+anterosuperior surface of body of pancreas
+anterior surface of head of pancreas
+inferior surface of pancreas
+non-peritoneal surface of pancreas
+anterior surface of neck of pancreas
+posterior surface of head of pancreas
+antero-inferior surface of body of pancreas
+anterior surface of body of pancreas
+posterior surface of neck of pancreas
+posterior surface of body of pancreas
+anterior surface of tail of pancreas
+inferior surface of body of pancreas
+anterior surface of esophagus
+posterior surface of esophagus
+lateral surface of esophagus
+right lateral surface of esophagus
+left lateral surface of esophagus
+surface of anterior lobe of prostate
+surface of posterior lobe of prostate
+surface of median lobe of prostate
+anterior surface of prostate
+posterior surface of prostate
+inferolateral surface of prostate
+surface of lateral lobe of prostate
+left inferolateral surface of prostate
+right inferolateral surface of prostate
+surface of right lateral lobe of prostate
+surface of left lateral lobe of prostate
+anterior tubercle of mandibular fossa of temporal bone
+posterior tubercle of mandibular fossa of temporal bone
+articular surface of mandibular fossa of temporal bone
+pterygopalatine fossa
+mandibular fossa of temporal bone
+glenoid fossa of temporal bone
+mandibular fossa
+condylar fossa of occipital bone
+region of surface of carpal bone
+region of surface of flat bone
+region of surface of skull bone
+region of surface of long bone
+region of surface of metacarpal bone
+region of surface of patella
+iliopsoas groove
+subdivision of surface of clavicle
+sacral groove
+subdivision of surface of lunate
+hamate facet of lunate
+subdivision of surface of scapula
+glenoid cavity
+glenoid fossa
+glenoid cavity of scapula
+medial surface of body of scapula
+lateral surface of body of scapula
+dorsal surface of scapula
+costal surface of scapula
+region of surface of body of scapula
+subscapular fossa of scapula
+left glenoid fossa
+right glenoid fossa
+medial surface of body of right scapula
+medial surface of body of left scapula
+lateral surface of body of left scapula
+lateral surface of body of right scapula
+dorsal surface of left scapula
+dorsal surface of right scapula
+costal surface of left scapula
+costal surface of right scapula
+surface of supraspinous fossa
+surface of supraspinatus fossa
+posterior surface of supraspinatus part proper of body of scapula
+posterior surface of supraspinal part of body of scapula
+dorsal surface of supraspinal part of body of scapula
+anterior surface of infraspinal part of body of scapula
+posterior surface of superior angle of scapula
+posterior surface of body of scapula
+dorsal surface of body of scapula
+surface of superior angle of scapula
+anterior surface of supraspinal part of body of scapula
+ventral surface of supraspinal part of body of scapula
+posterior surface of notch region of scapula
+costal surface of body of scapula
+ventral surface of body of scapula
+surface of infraspinous fossa
+surface of infraspinatus fossa
+posterior surface of infraspinal part of body of scapula
+dorsal surface of infraspinal part of body of scapula
+anterior surface of superior angle of scapula
+anterior surface of notch region of scapula
+surface of notch region of scapula
+superior surface of superior angle of scapula
+surface of subscapular fossa
+suprascapular notch
+marginal surface of superior angle of scapula
+superior surface of notch region of scapula
+superior scapular notch
+surface of left supraspinous fossa
+surface of left supraspinatus fossa
+posterior surface of supraspinatus part proper of body of left scapula
+surface of right supraspinous fossa
+surface of right supraspinatus fossa
+posterior surface of supraspinatus part proper of body of right scapula
+posterior surface of supraspinal part of body of right scapula
+dorsal surface of supraspinal part of body of right scapula
+posterior surface of supraspinal part of body of left scapula
+dorsal surface of supraspinal part of body of left scapula
+anterior surface of infraspinal part of body of left scapula
+anterior surface of infraspinal part of body of right scapula
+posterior surface of superior angle of left scapula
+posterior surface of superior angle of right scapula
+posterior surface of body of left scapula
+dorsal surface of body of left scapula
+posterior surface of body of right scapula
+dorsal surface of body of right scapula
+surface of superior angle of left scapula
+surface of superior angle of right scapula
+anterior surface of supraspinal part of body of left scapula
+ventral surface of supraspinal part of body of left scapula
+anterior surface of supraspinal part of body of right scapula
+ventral surface of supraspinal part of body of right scapula
+posterior surface of notch region of left scapula
+posterior surface of notch region of right scapula
+costal surface of body of left scapula
+ventral surface of body of left scapula
+costal surface of body of right scapula
+ventral surface of body of right scapula
+surface of left infraspinous fossa
+surface of left infraspinatus fossa
+surface of right infraspinous fossa
+surface of right infraspinatus fossa
+posterior surface of infraspinal part of body of left scapula
+dorsal surface of infraspinal part of body of left scapula
+posterior surface of infraspinal part of body of right scapula
+dorsal surface of infraspinal part of body of right scapula
+anterior surface of superior angle of right scapula
+anterior surface of superior angle of left scapula
+anterior surface of notch region of left scapula
+anterior surface of notch region of right scapula
+surface of notch region of left scapula
+surface of notch region of right scapula
+superior surface of superior angle of left scapula
+marginal surface of superior angle of left scapula
+superior surface of superior angle of right scapula
+marginal surface of superior angle of right scapula
+surface of left subscapular fossa
+surface of right subscapular fossa
+left suprascapular notch
+superior surface of notch region of left scapula
+right suprascapular notch
+superior surface of notch region of right scapula
+subdivision of surface of zygomatic bone
+subdivision of surface of occipital bone
+subdivision of surface of frontal bone
+lacrimal groove of lacrimal bone
+lacrimal groove
+subdivision of surface of sphenoid
+subdivision of surface of maxilla
+subdivision of surface of temporal bone
+subdivision of surface of palatal bone
+subdivision of surface of mandible
+suprameatal triangle of temporal bone
+lateral surface of zygomatic bone
+temporal surface of zygomatic bone
+orbital surface of zygomatic bone
+orbital border of zygomatic bone
+groove of occipital bone for inferior petrosal sinus
+jugular notch of occipital bone
+groove of occipital bone for sigmoid sinus
+ethmoidal notch of frontal bone
+internal surface of frontal bone
+subdivision of external surface of frontal bone
+external surface of frontal bone
+subdivision of orbital surface of frontal bone
+orbital surface of frontal bone
+temporal surface of frontal bone
+trochlear fovea of frontal bone
+trochlear fovea
+fossa for lacrimal gland
+trochlear spine of frontal bone
+cerebral surface of sphenoid bone
+orbital surface of sphenoid bone
+temporal surface of sphenoid bone
+infratemporal surface of sphenoid bone
+canine fossa of maxilla
+canine fossa
+greater palatine groove of maxilla
+greater palatine groove
+nasal surface of maxilla
+lacrimal groove of maxilla
+anterior surface of maxilla
+infratemporal fossa of maxilla
+orbital surface of maxilla
+infra-orbital groove of maxilla
+infraorbital groove
+infra-orbital groove
+groove for lesser petrosal nerve
+trigeminal impression
+groove of temporal bone for sigmoid sinus
+occipital groove
+temporal surface of temporal bone
+groove for greater petrosal nerve
+jugular notch of temporal bone
+jugular fossa
+groove of temporal bone for inferior petrosal sinus
+tympanic sulcus
+nasal surface of perpendicular plate of palatine bone
+maxillary surface of palatine bone
+greater palatine groove of palatine bone
+digastric fossa of mandible
+digastric fossa
+pterygoid fovea of mandible
+pterygoid fovea
+sublingual fossa of mandible
+sublingual fossa
+submandibular fossa of mandible
+submandibular fossa
+surface of mandibular ramus
+mylohyoid groove of mandible
+mylohyoid groove
+retromolar triangle of mandible
+retromolar triangle
+retromolar fossa of mandible
+retromolar fossa
+subdivision of surface of radius
+region of surface of radius
+subdivision of surface of femur
+region of surface of femur
+subdivision of surface of fibula
+region of surface of fibula
+subdivision of surface of ulna
+region of surface of ulna
+subdivision of surface of tibia
+region of surface of tibia
+subdivision of surface of metacarpal bone
+region of surface of humerus
+subdivision of surface of humerus
+subdivision of surface of epiphysis of radius
+recess of radial collateral ligament
+recess of lateral collateral ligament
+subdivision of surface of distal epiphysis of radius
+annular recess of elbow joint
+periradial recess of elbow joint
+annular periradial recess
+scaphoid fossa of radius
+lunate fossa of radius
+sigmoid notch of radius
+ulnar notch of radius
+subdivision of surface of epiphysis of femur
+subdivision of surface of proximal epiphysis of femur
+intercondylar fossa
+fovea of femoral head
+fovea for ligament of head of femur
+trochanteric fossa
+subdivision of surface of epiphysis of fibula
+malleolar groove
+malleolar sulcus of lateral malleolus
+malleolar groove of lateral malleolus
+subdivision of surface of epiphysis of ulna
+subdivision of surface of distal epiphysis of ulna
+recess of ulnar collateral ligament
+recess of medial collateral ligament
+subdivision of surface of proximal epiphysis of ulna
+radial notch
+lesser sigmoid notch
+olecranon process
+olec process
+supinator crest
+trochlear notch
+greater sigmoid notch
+semilunar notch of ulna
+trochlear groove
+trochlear ridge
+subdivision of surface of epiphysis of tibia
+subdivision of surface of distal epiphysis of tibia
+subdivision of surface of proximal epiphysis of tibia
+fibular facet of proximal tibia
+fibular articular facet of lateral condyle of tibia
+medial malleolar sulcus
+posterior groove of medial malleolus
+malleolar groove of medial malleolus
+medial malleolar tip
+summit
+surface of epiphysis of metacarpal bone
+surface of distal epiphysis of metacarpal bone
+surface of distal epiphysis of first metacarpal bone
+facet for ulnar sesamoid
+facet for radial sesamoid
+anterior surface of humerus
+region of surface of diaphysis of humerus
+anterolateral surface of humerus
+posterior surface of humerus
+facet of humerus for supraspinatus attachment
+facet of humerus for infraspinatus attachment
+infraspinatus attachment
+infraspinatus insertion
+facet of humerus for teres minor attachment
+medial surface of humerus
+radial nerve sulcus of humerus
+sulcus for radial nerve
+radial groove
+groove for radial nerve
+lateral surface of humerus
+anteromedial surface of humerus
+anterior humeral recess of elbow joint
+intertubercular sulcus of proximal epiphysis of humerus
+bicipital groove of proximal epiphysis of humerus
+bicipital groove of humerus
+intertubercular groove
+intertubercular
+intertubercular groove of humerus
+olecranon recess of elbow joint
+olecranon part of elbow
+olecranon fossa of humerus
+olecranon fossa
+radial fossa of humerus
+radial fossa
+radial sulcus
+radial fossa recess of elbow joint
+coronoid fossa of humerus
+coronoid fossa
+coronoid fossa recess of elbow joint
+intertubercular sulcus of diaphysis of humerus
+bicipital groove of diaphysis of humerus
+ulnar sulcus of humerus
+ulnar nerve sulcus of humerus
+anterior surface of right humerus
+anterior surface of left humerus
+anteromedial surface of diaphysis of humerus
+anterolateral surface of diaphysis of humerus
+posterior surface of diaphysis of humerus
+anteromedial surface of diaphysis of right humerus
+anteromedial surface of diaphysis of left humerus
+anterolateral surface of diaphysis of right humerus
+anterolateral surface of diaphysis of left humerus
+posterior surface of diaphysis of right humerus
+posterior surface of diaphysis of left humerus
+posterior surface of right humerus
+posterior surface of left humerus
+medial surface of right humerus
+medial surface of left humerus
+radial nerve sulcus of right humerus
+radial nerve sulcus of left humerus
+lateral surface of right humerus
+lateral surface of left humerus
+intertubercular sulcus of proximal epiphysis of right humerus
+bicipital groove of proximal epiphysis of right humerus
+intertubercular sulcus of proximal epiphysis of left humerus
+bicipital groove of proximal epiphysis of left humerus
+intertubercular sulcus of right humerus
+intertubercular sulcus of left humerus
+left olecranon fossa
+right olecranon fossa
+right radial fossa
+left radial fossa
+right coronoid fossa
+left coronoid fossa
+intertubercular sulcus of diaphysis of left humerus
+bicipital groove of diaphysis of left humerus
+intertubercular sulcus of diaphysis of right humerus
+bicipital groove of diaphysis of right humerus
+ulnar nerve sulcus of right humerus
+ulnar nerve sulcus of left humerus
+articular facet of patella
+lateral articular facet of patella
+medial articular facet of patella
+odd articular facet of patella
+deltoid tubercle
+conoid tubercle
+costal tuberosity of medial end of clavicle
+rhomboid fossa of clavicle
+rhomboid impression of clavicle
+inguinal triangle
+hesselbach triangle
+femoral fossa
+supravesical fossa
+inguinal fossa
+ovarian fossa
+right inguinal triangle
+left inguinal triangle
+right supravesical fossa
+left supravesical fossa
+medial inguinal fossa
+lateral inguinal fossa
+left medial inguinal fossa
+right medial inguinal fossa
+left lateral inguinal fossa
+left Hesselbach triangle
+right lateral inguinal fossa
+right Hesselbach triangle
+left ovarian fossa
+right ovarian fossa
+medial surface of ovary
+lateral surface of ovary
+medial surface of right ovary
+medial surface of left ovary
+lateral surface of right ovary
+lateral surface of left ovary
+region of internal surface of kidney
+region of external surface of kidney
+surface of minor calyx
+surface of cribriform area of renal papilla
+surface of major calyx
+calyx surface
+posterior surface of kidney
+peritoneal surface of kidney
+non-peritoneal surface of kidney
+anterior surface of kidney
+posterior surface of right kidney
+posterior surface of left kidney
+peritoneal surface of right kidney
+peritoneal surface of left kidney
+non-peritoneal surface of left kidney
+non-peritoneal surface of right kidney
+anterior surface of right kidney
+anterior surface of left kidney
+cardiac impression on diaphragmatic surface of liver
+superior part of diaphragmatic surface of liver
+right part of diaphragmatic surface of liver
+hepatic impression
+anterior part of diaphragmatic surface of liver
+region of diaphragmatic surface of liver
+bare area of diaphragmatic surface of liver
+posterior part of diaphragmatic surface of liver
+inferior surface of liver
+diaphragmatic surface of liver
+hepatic fissure
+region of inferior surface of liver
+groove for vena cava
+esophageal impression of liver
+oesophageal impression on liver
+duodenal impression of liver
+duodenal impression on liver
+gastric impression of liver
+gastric impression on liver
+renal impression of liver
+renal impression on liver
+colic impression of liver
+colic impression on liver
+fossa for gallbladder
+suprarenal impression of liver
+suprarenal impression on liver
+diaphragmatic surface of right lobe of liver
+right surface of liver
+diaphragmatic surface of left lobe of liver
+superior surface of liver
+anterior surface of left lobe of liver
+anterior surface of liver
+posterior surface of liver
+anterior surface of right lobe of liver
+bare area of liver
+posterior surface of right lobe of liver
+posterior surface of left lobe of liver
+fissure for ligamentum teres
+fissure for ligamentum teres of liver
+fissure for round ligament of liver
+fissure for ligamentum venosum
+inferior surface of caudate lobe of liver
+inferior surface of left lobe of liver
+inferior surface of quadrate lobe of liver
+inferior surface of right lobe of liver
+posterior surface of cervical part of esophagus
+lateral surface of cervical part of esophagus
+anterior surface of cervical part of esophagus
+right lateral surface of cervical part of esophagus
+left lateral surface of cervical part of esophagus
+superior surface of urinary bladder
+inferolateral surface of urinary bladder
+right inferolateral surface of urinary bladder
+left inferolateral surface of urinary bladder
+region of surface of lobe of lung
+pleural fissure
+pulmonary fissure
+right pleural fissure
+left pleural fissure
+right major fissure
+right oblique interlobar fissure
+right minor fissure
+right horizontal interlobar fissure
+left major fissure
+left oblique interlobar fissure
+anterior surface of abdominal part of esophagus
+posterior surface of abdominal part of esophagus
+lateral surface of abdominal part of esophagus
+right lateral surface of abdominal part of esophagus
+left lateral surface of abdominal part of esophagus
+incisive fossa of maxilla
+incisive fossa
+diaphragmatic surface of spleen
+gastric impression of spleen
+gastric impression on spleen
+visceral surface of spleen
+renal impression of spleen
+renal impression on spleen
+colic impression of spleen
+colic impression on spleen
+notch of spleen
+splenic notch
+pancreatic impression of spleen
+pancreatic impression on spleen
+navicular fossa of male urethra
+fossa navicularis of male urethra
+navicular fossa of female urethra
+fossa navicularis of female urethra
+surface of spinal cord
+spinal cord surface
+surface of region of large intestine
+surface of zone of uterus
+surface of segment of esophagus
+surface of zone of small intestine
+surface of region of ureter
+surface of segment of spinal cord
+surface of region of urinary bladder
+surface of zone of stomach
+surface of region of uterine tube
+surface of segment of brain
+surface of brain
+brain surface
+surface of region of wall of eyeball
+surface of anterior wall of appendix
+surface of sigmoid colon
+sigmoid colon surface
+surface of transverse colon
+transverse colon surface
+surface of posterior wall of appendix
+surface of descending colon
+descending colon surface
+surface of ascending colon
+ascending colon surface
+surface of cecum
+cecum surface
+internal surface of region of wall of large intestine
+surface of rectum
+rectal surface
+external surface of sigmoid colon
+internal surface of sigmoid colon
+external surface of transverse colon
+internal surface of transverse colon
+external surface of descending colon
+internal surface of descending colon
+external surface of ascending colon
+internal surface of ascending colon
+internal surface of cecum
+external surface of cecum
+internal surface of anterior wall of descending colon
+internal surface of posterior wall of descending colon
+internal surface of anterior wall of sigmoid colon
+internal surface of posterior wall of rectum
+internal surface of anterior wall of transverse colon
+internal surface of posterior wall of sigmoid colon
+internal surface of anterior wall of rectum
+internal surface of anterior wall of ascending colon
+internal surface of posterior wall of ascending colon
+internal surface of posterior wall of transverse colon
+external surface of rectum
+internal surface of rectum
+surface of isthmus of uterus
+surface of fundus of uterus
+surface of body of uterus
+posterior surface of zone of uterus
+external surface of zone of uterus
+surface of cervix
+cervix surface
+anterior surface of zone of uterus
+internal surface of zone of uterus
+posterior surface of cervix
+posterior surface of body of uterus
+posterior surface of isthmus of uterus
+posterior surface of fundus of uterus
+external surface of body of uterus
+external surface of isthmus of uterus
+external surface of fundus of uterus
+external surface of cervix
+anterior surface of isthmus of uterus
+anterior surface of cervix
+anterior surface of fundus of uterus
+anterior surface of body of uterus
+internal surface of anterior wall of uterus
+internal surface of anterior wall of zone of uterus
+internal surface of isthmus of uterus
+internal surface of cervix
+internal surface of fundus of uterus
+internal surface of posterior wall of zone of uterus
+internal surface of body of uterus
+internal surface of posterior wall of uterus
+internal surface of anterior wall of isthmus of uterus
+internal surface of anterior wall of fundus of uterus
+internal surface of anterior wall of body of uterus
+internal surface of anterior wall of cervix
+internal surface of posterior wall of cervix
+internal surface of posterior wall of body of uterus
+internal surface of posterior wall of isthmus of uterus
+internal surface of posterior wall of fundus of uterus
+surface of thoracic part of esophagus
+surface of abdominal part of esophagus
+surface of cervical part of esophagus
+external surface of thoracic part of esophagus
+internal surface of thoracic part of esophagus
+internal surface of abdominal part of esophagus
+external surface of abdominal part of esophagus
+external surface of cervical part of esophagus
+internal surface of cervical part of esophagus
+surface of subdivision of ileum
+internal surface of subdivision of small intestine
+external surface of subdivision of small intestine
+surface of subdivision of jejunum
+surface of jejunum
+jejunum surface
+surface of duodenum
+doudenal surface
+surface of ileum
+ileum surface
+surface of subdivision of duodenum
+surface of middle part of ileum
+surface of proximal part of ileum
+surface of distal part of ileum
+internal surface of duodenum
+internal surface of ileum
+internal surface of jejunum
+subdivision of external surface of duodenum
+internal surface of segment of duodenum
+external surface of segment of duodenum
+external surface of duodenum
+external surface of ileum
+external surface of jejunum
+anterior surface of subdivision of duodenum
+anterior surface of duodenum
+posterior surface of subdivision of duodenum
+posterior surface of duodenum
+anterior surface of descending part of duodenum
+anterior surface of superior part of duodenum
+anterior surface of ascending part of duodenum
+anterior surface of horizontal part of duodenum
+posterior surface of horizontal part of duodenum
+posterior surface of superior part of duodenum
+posterior surface of ascending part of duodenum
+posterior surface of descending part of duodenum
+internal surface of posterior wall of duodenum
+internal surface of descending part of duodenum
+internal surface of superior part of duodenum
+internal surface of posterior wall of segment of duodenum
+internal surface of ascending part of duodenum
+internal surface of horizontal part of duodenum
+internal surface of anterior wall of duodenum
+internal surface of anterior wall of segment of duodenum
+internal surface of posterior wall of superior part of duodenum
+internal surface of posterior wall of horizontal duodenum
+internal surface of posterior wall of descending part of duodenum
+internal surface of posterior wall of ascending duodenum
+internal surface of anterior wall of ascending part of duodenum
+internal surface of anterior wall of descending part of duodenum
+internal surface of anterior wall of horizontal part of duodenum
+internal surface of anterior wall of superior part of duodenum
+external surface of ascending part of duodenum
+external surface of descending part of duodenum
+external surface of superior part of duodenum
+external surface of horizontal part of duodenum
+surface of middle part of jejunum
+surface of proximal part of jejunum
+surface of distal part of jejunum
+surface of descending part of duodenum
+surface of superior part of duodenum
+surface of ascending part of duodenum
+surface of horizontal part of duodenum
+surface of abdominal part of ureter
+surface of ureter proper
+ureteral proper surface
+surface of renal pelvis
+renal pelvic surface
+surface of pelvic part of ureter
+external surface of abdominal part of ureter
+internal surface of abdominal part of ureter
+external surface of abdominal part of right ureter
+external surface of abdominal part of left ureter
+internal surface of abdominal part of left ureter
+internal surface of abdominal part of right ureter
+external surface of ureter proper
+internal surface of ureter proper
+external surface of right ureter proper
+external surface of left ureter proper
+internal surface of left ureter proper
+internal surface of right ureter proper
+internal surface of renal pelvis
+external surface of renal pelvis
+internal surface of right renal pelvis
+internal surface of left renal pelvis
+external surface of left renal pelvis
+external surface of right renal pelvis
+internal surface of pelvic part of ureter
+external surface of pelvic part of ureter
+internal surface of pelvic part of left ureter
+internal surface of pelvic part of right ureter
+external surface of pelvic part of right ureter
+external surface of pelvic part of left ureter
+surface of cervical segment of spinal cord
+surface of lumbar segment of spinal cord
+surface of lumbosacral enlargement
+surface of cervical enlargement
+surface of thoracic segment of spinal cord
+surface of C3 segment
+surface of C2 segment
+surface of C1 segment
+surface of C6 segment
+surface of C5 segment
+surface of C4 segment
+surface of C8 segment
+surface of C7 segment
+surface of L5 segment
+surface of L4 segment
+surface of L3 segment
+surface of L2 segment
+surface of L1 segment
+surface of T5 segment
+surface of T4 segment
+surface of T3 segment
+surface of T2 segment
+surface of T9 segment
+surface of T8 segment
+surface of T7 segment
+surface of T6 segment
+surface of T12 segment
+surface of T11 segment
+surface of T10 segment
+surface of T1 segment
+internal surface of subdivision of urinary bladder
+external surface of subdivision of urinary bladder
+internal surface of anterior wall of urinary bladder
+internal surface of lateral wall of urinary bladder
+internal surface of posterior wall of urinary bladder
+internal surface of body of urinary bladder
+internal surface of fundus of urinary bladder
+internal surface of trigone of urinary bladder
+internal surface of neck of urinary bladder
+internal surface of left lateral wall of urinary bladder
+internal surface of right lateral wall of urinary bladder
+external surface of anterior wall of urinary bladder
+external surface of posterior wall of urinary bladder
+external surface of lateral wall of urinary bladder
+external surface of fundus of urinary bladder
+external surface of body of urinary bladder
+external surface of neck of urinary bladder
+external surface of trigone of urinary bladder
+external surface of right lateral wall of urinary bladder
+external surface of left lateral wall of urinary bladder
+internal surface of subdivision of stomach
+surface of cardia of stomach
+surface of fundus of stomach
+surface of body of stomach
+surface of pyloric antrum
+pyloric antrum surface
+surface of pyloric canal
+pyloric canal surface
+external surface of subdivision of stomach
+surface of pylorus
+pylorus surface
+internal surface of anterior wall of stomach
+internal surface of anterior wall of subdivision of stomach
+internal surface of body of stomach
+internal surface of pyloric antrum
+internal surface of pyloric canal
+internal surface of posterior wall of stomach
+internal surface of pylorus
+internal surface of posterior wall of subdivision of stomach
+internal surface of cardia of stomach
+internal surface of fundus of stomach
+internal surface of anterior wall of fundus of stomach
+internal surface of anterior wall of body of stomach
+internal surface of anterior wall of pyloric antrum
+internal surface of anterior wall of pyloric canal
+internal surface of posterior wall of fundus of stomach
+internal surface of posterior wall of body of stomach
+internal surface of posterior wall of pyloric antrum
+internal surface of posterior wall of pyloric canal
+external surface of pylorus
+external surface of cardia of stomach
+external surface of fundus of stomach
+external surface of body of stomach
+external surface of pyloric antrum
+external surface of pyloric canal
+surface of ampulla of uterine tube
+surface of isthmus of uterine tube
+surface of fimbria of uterine tube
+surface of uterine tube proper
+uterine tube proper surface
+surface of infundibulum of uterine tube
+external surface of ampulla of uterine tube
+internal surface of ampulla of uterine tube
+external surface of ampulla of left uterine tube
+external surface of ampulla of right uterine tube
+internal surface of ampulla of right uterine tube
+internal surface of ampulla of left uterine tube
+external surface of isthmus of uterine tube
+internal surface of isthmus of uterine tube
+external surface of isthmus of right uterine tube
+external surface of isthmus of left uterine tube
+internal surface of isthmus of left uterine tube
+internal surface of isthmus of right uterine tube
+external surface of fimbria of uterine tube
+internal surface of fimbria of uterine tube
+external surface of fimbria of right uterine tube
+external surface of fimbria of left uterine tube
+internal surface of fimbria of left uterine tube
+internal surface of fimbria of right uterine tube
+internal surface of uterine tube proper
+external surface of uterine tube proper
+internal surface of right uterine tube proper
+internal surface of left uterine tube proper
+external surface of left uterine tube proper
+external surface of right uterine tube proper
+external surface of infundibulum of uterine tube
+internal surface of infundibulum of uterine tube
+external surface of infundibulum of right uterine tube
+external surface of infundibulum of left uterine tube
+internal surface of infundibulum of right uterine tube
+internal surface of infundibulum of left uterine tube
+surface of segment of hindbrain
+surface of hindbrain
+surface of segment of midbrain
+surface of midbrain
+surface of segment of forebrain
+surface of forebrain
+surface of segment of diencephalon
+surface of segment of telencephalon
+surface of diencephalon
+surface of telencephalon
+surface of cerebral hemisphere
+surface of cerebral lobe
+surface of segment of cerebral hemisphere
+subdivision of surface of cerebral hemisphere
+surface of left cerebral hemisphere
+surface of right cerebral hemisphere
+surface of temporal lobe
+surface of insula
+surface of occipital lobe
+surface of parietal lobe
+surface of limbic lobe
+surface of frontal lobe
+surface of left temporal lobe
+surface of right temporal lobe
+surface of left insula
+surface of right insula
+surface of right occipital lobe
+surface of left occipital lobe
+surface of left parietal lobe
+surface of right parietal lobe
+surface of left limbic lobe
+surface of right limbic lobe
+surface of left frontal lobe
+surface of right frontal lobe
+subdivision of basal surface of cerebral hemisphere
+medial surface of cerebral hemisphere
+lateral surface of cerebral hemisphere
+convex surface of cerebral hemisphere
+basal surface of cerebral hemisphere
+tentorial surface of cerebral hemisphere
+posterior part of basal surface of cerebral hemisphere
+orbital surface of cerebral hemisphere
+anterior part of basal surface of cerebral hemisphere
+basal surface proper of cerebral hemisphere
+tentorial surface of right cerebral hemisphere
+posterior part of basal surface of right cerebral hemisphere
+tentorial surface of left cerebral hemisphere
+posterior part of basal surface of left cerebral hemisphere
+orbital surface of left cerebral hemisphere
+anterior part of basal surface of left cerebral hemisphere
+orbital surface of right cerebral hemisphere
+anterior part of basal surface of right cerebral hemisphere
+basal surface proper of left cerebral hemisphere
+basal surface proper of right cerebral hemisphere
+medial surface of left cerebral hemisphere
+medial surface of right cerebral hemisphere
+lateral surface of left cerebral hemisphere
+lateral surface of right cerebral hemisphere
+basal surface of right cerebral hemisphere
+basal surface of left cerebral hemisphere
+surface of cornea
+piriform recess
+pyriform sinus
+piriform sinus
+piriform fossa
+tonsillar fossa
+supratonsillar fossa
+surface of liver
+surface of urinary bladder
+urinary bladder surface
+surface of ligament
+surface of appendix
+appendix surface
+surface of small intestine
+small intestinal surface
+surface of gallbladder
+gallbladder surface
+surface of ovary
+ovary surface
+surface of ileocecal valve
+ileocecal valvular surface
+surface of pancreas
+pancreatic surface
+surface of esophagus
+esophagus surface
+surface of adrenal gland
+adrenal gland surface
+surface of ureter
+ureteral surface
+surface of large intestine
+large intestinal surface
+pericardial sac surface
+surface of peritoneal sac
+peritoneal sac surface
+surface of muscle organ
+muscular organ surface
+surface of uterine tube
+uterine tube surface
+surface of kidney
+renal surface
+surface of cartilage organ
+surface of uterus
+uterine surface
+surface of prostate
+prostatic surface
+surface of stomach
+gastric surface
+surface of spleen
+splenic surface
+external surface of urinary bladder
+internal surface of urinary bladder
+surface of coracohumeral ligament
+surface of transverse humeral ligament
+surface of inferior transverse scapular ligament
+surface of superior transverse scapular ligament
+surface of glenohumeral ligament
+surface of coraco-acromial ligament
+surface of coracoacromial ligament
+surface of right coracohumeral ligament
+surface of left coracohumeral ligament
+surface of left transverse humeral ligament
+surface of right transverse humeral ligament
+surface of left inferior transverse scapular ligament
+surface of right inferior transverse scapular ligament
+surface of left superior transverse scapular ligament
+surface of right superior transverse scapular ligament
+surface of inferior glenohumeral ligament
+surface of middle glenohumeral ligament
+surface of superior glenohumeral ligament
+surface of right inferior glenohumeral ligament
+surface of left inferior glenohumeral ligament
+surface of left middle glenohumeral ligament
+surface of right middle glenohumeral ligament
+surface of left superior glenohumeral ligament
+surface of right superior glenohumeral ligament
+surface of left coraco-acromial ligament
+surface of right coraco-acromial ligament
+external surface of small intestine
+internal surface of small intestine
+internal surface of gallbladder
+external surface of gallbladder
+surface of right ovary
+right ovary surface
+surface of left ovary
+left ovary surface
+external surface of esophagus
+internal surface of esophagus
+surface of right adrenal gland
+right adrenal gland surface
+surface of left adrenal gland
+left adrenal gland surface
+internal surface of ureter
+external surface of ureter
+internal surface of right ureter
+internal surface of left ureter
+external surface of right ureter
+external surface of left ureter
+internal surface of large intestine
+external surface of large intestine
+surface of deltoid
+deltoid surface
+surface of pectoralis minor muscle
+surface of triceps brachii
+surface of triceps brachii muscle
+surface of pectineus
+pectineus surface
+surface of sartorius
+sartorius surface
+surface of subscapularis
+surface of subscapularis muscle
+surface of psoas major
+psoas major surface
+surface of teres major
+surface of teres major muscle
+surface of scalenus medius
+surface of middle scalene muscle
+surface of teres minor
+surface of teres minor muscle
+surface of iliacus
+iliacus surface
+surface of scalenus anterior
+surface of anterior scalene muscle
+surface of adductor longus
+adductor longus surface
+surface of left pectoralis minor muscle
+surface of right pectoralis minor muscle
+surface of left triceps brachii
+surface of left triceps brachii muscle
+surface of right triceps brachii
+surface of right triceps brachii muscle
+surface of left pectineus
+left pectineus surface
+surface of right pectineus
+right pectineus surface
+surface of right sartorius
+right sartorius surface
+surface of left sartorius
+left sartorius surface
+surface of right subscapularis
+surface of right subscapularis muscle
+surface of left subscapularis
+surface of left subscapularis muscle
+surface of left psoas major
+left psoas major surface
+surface of right psoas major
+right psoas major surface
+surface of left teres major
+surface of left teres major muscle
+surface of right teres major
+surface of right teres major muscle
+surface of left scalenus medius
+surface of left middle scalene muscle
+surface of right scalenus medius
+surface of right middle scalene muscle
+surface of left teres minor
+surface of left teres minor muscle
+surface of right teres minor
+surface of right teres minor muscle
+surface of left iliacus
+left iliacus surface
+surface of right iliacus
+right iliacus surface
+surface of left scalenus anterior
+surface of left anterior scalene muscle
+surface of right scalenus anterior
+surface of right anterior scalene muscle
+surface of left adductor longus
+left adductor longus surface
+surface of right adductor longus
+right adductor longus surface
+external surface of uterine tube
+internal surface of uterine tube
+external surface of left uterine tube
+external surface of right uterine tube
+internal surface of right uterine tube
+internal surface of left uterine tube
+surface of right kidney
+right renal surface
+surface of left kidney
+left renal surface
+surface of auricular cartilage
+subdivision of medial surface of auricular cartilage
+eminentia conchae
+eminentia fossa triangularis
+eminentia scaphae
+external surface of uterus
+internal surface of uterus
+internal surface of stomach
+external surface of stomach
+olfactory groove of nasal cavity
+olfactory groove
+median sulcus of lateral ventricle
+median sulcus
+groove for transverse sinus
+sulcus of gingiva
+gingival sulcus
+gingival groove
+fissure ligamentum venosum
+greater sciatic notch
+groove of promontory
+palatopharyngeal ridge
+obturator groove
+palatine raphe
+pterygomaxillary fissure
+median sulcus of tongue
+vomerovaginal groove
+terminal sulcus of tongue
+groove of pterygoid hamulus
+palatovaginal groove
+crest of round window
+posterior palpebral margin
+bona fide anatomical line
+bonafide anatomical line
+terminal notch of auricle
+fiat anatomical line
+notch in cartilage of external auditory canal
+nothc in cartilage of external auditory meatus
+fissura antitragohelicina
+pectineal line
+iliopectineal line
+pecten pubis
+anterior notch of pinna
+lateral angle of eye
+intertragic notch of pinna
+medial angle of eye
+anterior palpebral margin
+groove for marginal sinus
+medial canthic fold
+lesser sciatic notch
+interarytenoid notch
+anatomical line of lung
+anatomical line of bone
+anatomical line of skull
+anatomical line of ovary
+anatomical line of adrenal gland
+anatomical line of large intestine
+anatomical line of liver
+anatomical line of stomach
+anatomical line of neuraxis
+malleolar stria of tympanic membrane
+malleolar stria
+anatomical line of pancreas
+anatomical line of spleen
+anatomical line of eyeball
+margin of gingiva
+gingival margin
+anatomical line of kidney
+uterine margin
+anatomical line of small intestine
+anatomical line of tooth
+subdivision of anterior margin of lung
+anterior junction line
+anterior mediastinal line
+cardiac notch of left lung
+cardiac incisura
+parietal border of temporal bone
+squamosal margin of sphenoid bone
+parietal notch of temporal bone
+tympanic ring
+superior border of petrous part of temporal bone
+groove for superior petrosal sinus
+palatine groove of maxilla
+arcuate line of ilium
+anatomical line of long bone
+anatomical line of flat bone
+anatomical line of pelvis
+tympanic notch
+zygomatic margin of sphenoid bone
+pterygoid notch
+frontal margin of sphenoid bone
+parietal margin of sphenoid bone
+parietal margin of sphenoid
+lacrimal notch of maxilla
+infratemporal crest of sphenoid bone
+posterior border of petrous part of temporal bone
+transverse ridge of sacrum
+transverse line of sacrum
+anatomical line of fibula
+anatomical line of femur
+anatomical line of tibia
+anatomical line of humerus
+interosseous crest of fibula
+anteromedial border of fibula
+interosseous border of fibula
+posteromedial border of fibula
+anterolateral border of fibula
+posterolateral border of fibula
+lip of linea aspera
+linea aspera
+intertrochanteric line
+linea quadrata
+soleal line
+popliteal line
+supracondylar process
+anatomical line of scapula
+border of scapula
+superior border of scapula
+subpubic angle
+pubic angle
+mandibular notch
+petrotympanic fissure
+highest nuchal line
+superior nuchal line
+oblique line of mandible
+inferior nuchal line
+supraorbital notch
+supra-orbital notch
+mylohyoid line of mandible
+mylohyoid line
+petrosquamous suture
+petrosquamosal fissure
+petrosquamous fissure
+petrosquamosal suture
+anatomical border of skull bone
+temporal line of frontal bone
+lambdoid border of occipital bone
+angle of mandible
+tympanosquamosal fissure
+tympanosquamous fissure
+groove for middle temporal artery
+sphenopalatine notch of palatine bone
+sphenopalatine notch
+tympanomastoid fissure
+mastoid border of occipital bone
+lacrimal margin of maxilla
+sphenoidal margin of squamous part of temporal bone
+sphenoidal margin of frontal bone
+nasal notch of maxilla
+nasal notch
+supraorbital margin of frontal bone
+infra-orbital margin of maxilla
+occipital margin of petrous part of temporal bone
+anatomical border of subdivision of skull
+parietal margin of frontal bone
+lateral orbital margin
+lateral margin of orbit
+medial orbital margin
+medial margin of orbit
+margin of orbit
+supraorbital margin
+supra-orbital margin
+nasal margin of frontal bone
+infra-orbital margin
+infraorbital margin
+free border of ovary
+mesovarian border of ovary
+free margin of ovary
+mesovarian margin of ovary
+free margin of right ovary
+free margin of left ovary
+mesovarian margin of left ovary
+mesovarian margin of right ovary
+medial margin of adrenal gland
+superior margin of adrenal gland
+medial border of suprarenal gland
+superior border of suprarenal gland
+antimesenteric border of large intestine
+margin of ileocecal valve
+ileocecal valvular margin
+mesenteric border of large intestine
+umbilical fissure
+right portal fissure
+main portal fissure
+margin of liver
+hepatic margin
+notch for ligamentum teres
+inferior border of liver
+lesser curvature of stomach (line)
+right border of stomach
+subdivision of lesser curvature of stomach (line)
+greater curvature of stomach (line)
+subdivision of greater curvature of stomach (line)
+lesser curvature proper of stomach
+angular notch of stomach
+greater curvature proper of stomach
+cardiac notch of stomach
+sulcus intermedius of stomach
+superomedial border of cerebral hemisphere
+superciliary border
+medial occipital border
+inferolateral border of posterior part of cerebral hemisphere
+inferolateral border of tentorial part of cerebral hemisphere
+superomedial border of right cerebral hemisphere
+superomedial border of left cerebral hemisphere
+right superciliary border
+left superciliary border
+right medial occipital border
+left medial occipital border
+inferolateral border of posterior part of left cerebral hemisphere
+inferolateral border of posterior part of right cerebral hemisphere
+superior margin of body of pancreas
+anterior margin of body of pancreas
+inferior margin of body of pancreas
+superior margin of neck of pancreas
+superior margin of tail of pancreas
+inferior margin of tail of pancreas
+inferior margin of neck of pancreas
+pancreatic notch
+pancreatic incisure
+pancreatic incisura
+superior margin proper of spleen
+inferior margin of spleen
+superior margin of spleen
+marginal zone of spleen
+sulcus sclerae
+scleral sulcus
+pupillary margin of iris
+papillary margin of iris
+ciliary margin of iris
+iridocorneal angle
+ora serrata
+lateral margin of kidney
+margin of kidney
+renal margin
+medial margin of kidney
+lateral margin of right kidney
+lateral margin of left kidney
+margin of right kidney
+right renal margin
+margin of left kidney
+left renal margin
+medial margin of right kidney
+medial margin of left kidney
+right uterine margin
+left uterine margin
+anti-mesenteric border of jejunum
+mesenteric border of jejunum
+anti-mesenteric border of ileum
+mesenteric border of ileum
+oblique ridge of tooth
+incisal margin of tooth
+occlusal ridge of tooth
+occlusal fissure of tooth
+marginal ridge of tooth
+transverse ridge of tooth
+triangular ridge of tooth
+posterior gluteal line
+inferior gluteal line
+anterior gluteal line
+apex of heart
+cardiac apex
+plexal point of anterior choroidal artery
+mcBurney point
+point of skull
+skull point
+malleolar prominence of tympanic membrane
+foramen caecum of tongue
+foramen of Morgagni
+pogonion
+gnathion
+porion
+orbitale
+frons
+stephanion
+lambda
+acanthion
+asterion
+masion
+vertex
+gonion
+prosthion
+pterion
+inion
+opisthion
+euryon
+opisthocranion
+obelion
+basion
+zygion
+bregma
+occiput
+anatomical compartment space
+space of anatomical compartment
+bulla
+nervous system space
+anatomic space of pelvis
+bleb
+anatomic space of foot or ankle
+space of knee
+space of thigh
+anatomical fissure
+space of neck
+anatomical conduit space
+anatomic space of wrist
+compartment space
+foramen
+anatomical cavity
+oral vestibule
+visceral space
+sublingual space
+fontanelle
+anatomic space of elbow
+anatomic space of shoulder girdle
+interstitial space
+cavum trigeminale
+trigeminal cave
+Meckel cave
+space of compartment of trunk
+tissue space
+space of compartment of limb
+compartment space of limb
+subdivision of cervicothoracic-brachial compartment space
+cervicothoracic-brachial compartment space
+space of cervicothoracic-brachial compartment
+space of clinical thoracic outlet
+space of compartment of head
+ostiomeatal unit
+osteomeatal complex
+ostiomeatal complex
+osteomeatal unit
+perichoroidal space of globe
+zonular space of ciliary zonule
+zonular space
+space of orbit
+retrozonular space
+postseptal space of orbit
+intraconal space of orbit
+extraconal space of orbit
+episcleral space of orbit
+preseptal space of orbit
+intercostal space
+body cavity subdivision
+body cavity
+space of body compartment
+extraperitoneal space
+space of rectoprostatic compartment
+rectoprostatic compartment space
+superficial perineal space
+superficial perineal pouch
+pelvirectal space
+posterior part of pelvirectal space
+cavity of lower abdomen
+space of compartment of lower abdomen
+lower abdominal cavity
+space of cystohepatic triangle
+cystohepatic triangle space
+anterior part of pelvirectal space
+cavity of upper abdomen
+space of compartment of upper abdomen
+upper abdominal cavity
+retropubic space
+retziius cavity
+cave of Retzius
+space of Retzius
+cavity of Retzius
+retzius space
+presacral space
+perivesical space
+prevesical space
+deep perineal space
+deep perineal pouch
+lesser omentum compartment space
+abdominal cavity
+cavity of compartment of abdomen
+cavity of abdominal compartment
+space of abdominal compartment
+thoracic cavity
+space of thoracic compartment
+cavity of thorax
+greater omentum compartment space
+retro-inguinal space
+subdivision of abdominal cavity
+abdominopelvic cavity
+region of retroperitoneal space
+region of retroperitoneum
+properitoneal space
+subdivision of thoracic cavity
+thoracic cavity subdivision
+retroperitoneum
+retroperito
+space of periprostatic compartment
+periprostatic compartment space
+left extraperitoneal space
+right extraperitoneal space
+right superficial perineal space
+left superficial perineal space
+right retropubic space
+left retropubic space
+left deep perineal space
+right deep perineal space
+greater pelvic cavity
+cavity of greater pelvis
+cavity of inferior part of abdomen proper
+cavity of superior part of abdomen proper
+pelvic cavity
+cavity of true pelvis
+space of pelvic compartment
+cavity of abdomen proper
+abdominal cavity proper
+cavity of female pelvis
+female pelvic cavity
+space of female pelvic compartment
+compartment space of female pelvis
+cavity of male pelvis
+space of male pelvic compartment
+compartment space of male pelvis
+male pelvic cavity
+anterior pararenal space
+posterior pararenal space
+perirenal space
+perinephric space
+peri-renal space
+periphrenic space
+left anterior pararenal space
+right anterior pararenal space
+left posterior pararenal space
+right posterior pararenal space
+left perirenal space
+left periphrenic space
+right perirenal space
+right periphrenic space
+vascular pedicle
+left half of thoracic cavity
+right half of thoracic cavity
+pulmopleural space
+cavity of hemithorax
+hemithorax cavity
+subdivision of mediastinal space
+mediastinal space subdivision
+mediastinal space
+left pulmopleural space
+right pulmopleural space
+cavity of right hemithorax
+right hemithorax cavity
+cavity of left hemithorax
+left hemithorax cavity
+subdivision of anterior mediastinal space
+inferior mediastinal space
+middle mediastinal space
+anterior mediastinal space
+posterior mediastinal space
+posterior mediastinal triangle
+right superior recess of posterior mediastinal triangle
+subdivision of superior mediastinal space
+left superior recess of posterior mediastinal triangle
+superior mediastinal space
+inferior recess of anterior mediastinum
+superior recess of anterior mediastinum
+retrosternal space
+space of anterior part of superior mediastinum
+space of posterior part of superior mediastinum
+infra-azygos area
+supra-azygos area
+azygoesophageal recess
+supra-aortic area
+supra-aortic triangle
+infra-aortic area
+thoracic inlet
+posterior pleural reflection
+aortopulmonary window
+right paraspinal line
+left paraspinal line
+perinephric fascia
+Gerotas fascia
+diploic space
+space of compartment of lower limb
+space of lateral compartment of leg
+space of medial compartment of thigh
+space of posterior compartment of thigh
+space of superficial part of posterior compartment of leg
+space of anterior compartment of leg
+space of deep part of posterior compartment of leg
+space of anterior compartment of thigh
+space of anterior fascial compartment of thigh
+space of lateral compartment of right leg
+space of lateral compartment of left leg
+space of medial compartment of right thigh
+space of medial compartment of left thigh
+space of posterior compartment of left thigh
+space of posterior compartment of right thigh
+space of superficial part of posterior compartment of right leg
+space of superficial part of posterior compartment of left leg
+space of anterior compartment of left leg
+space of anterior compartment of right leg
+space of deep part of posterior compartment of left leg
+space of deep part of posterior compartment of right leg
+space of anterior compartment of right thigh
+space of anterior compartment of left thigh
+costoclavicular space
+costoclavicular compartment space
+costocervical space
+costocervical compartment space
+prescalene space
+pre-scalene compartment space
+prescalene compartment space
+interscalene triangle space
+scalene triangle space
+interscalene triangle compartment space
+space of interscalene triangle
+retropectoralis minor compartment space
+retropectoralis minor space
+left costoclavicular space
+left costoclavicular compartment space
+right costoclavicular space
+right costoclavicular compartment space
+left costocervical space
+left costocervical compartment space
+right costocervical space
+right costocervical compartment space
+left prescalene space
+left prescalene compartment space
+left pre-scalene compartment space
+right prescalene space
+right pre-scalene compartment space
+right prescalene compartment space
+left interscalene triangle space
+left scalene triangle space
+space of left interscalene triangle
+left interscalene triangle compartment space
+right interscalene triangle space
+right interscalene triangle compartment space
+right scalene triangle space
+space of right interscalene triangle
+left retropectoralis minor space
+left retropectoralis minor compartment space
+right retropectoralis minor space
+right retropectoralis minor compartment space
+right cervicothoracic-brachial space
+right cervicothoracic-brachial compartment space
+space of right cervicothoracic-brachial compartment
+left cervicothoracic-brachial space
+space of left cervicothoracic-brachial compartment
+left cervicothoracic-brachial compartment space
+orbital cavity
+pterygoid fossa
+scaphoid fossa of sphenoid bone
+scaphoid fossa
+osseous cavity of skull
+nasal cavity
+zone of subarachnoid space
+oral cavity
+cavity of mouth
+oral cav
+peripharyngeal space
+subdivision of nasal cavity
+subarachnoid incisure
+subarachnoid fissure
+fissure of cerebellum
+subarachnoid sulcus
+anterior cerebellar incisure
+tentorial notch
+tentorial hiatus
+choroidal fissure
+lunogracile fissure of cerebellum
+ansoparamedian fissure
+precentral fissure
+postlingual fissure
+posterolateral fissure of cerebellum
+dorsolateral fissure
+prenodular fissure
+superior posterior fissure
+posterior superior fissure of cerebellum
+postclival fissure
+postlunate fissure
+primary fissure
+primary fissure of cerebellum
+preclival fissure
+intraculminate fissure
+preculminate fissure
+secondary fissure
+postpyramidal fissure
+intrabiventer fissure
+anterior inferior fissure of cerebellum
+intrabiventral fissure of cerebellum
+prebiventer fissure
+prepyramidal fissure
+prebiventral fissure
+horizontal fissure of cerebellum
+occipitotemporal sulcus
+hippocampal sulcus
+collateral sulcus
+olfactory sulcus
+rhinal sulcus
+prechiasmatic sulcus of sphenoid bone
+calcarine sulcus
+lunate sulcus
+parieto-occipital sulcus
+parietal-occipital sulcus
+transverse occipital sulcus
+postcentral sulcus
+superior temporal sulcus
+cingulate sulcus
+intraparietal sulcus
+inferior temporal sulcus
+central sulcus
+circular sulcus
+circular sulcus of insula
+inferior frontal sulcus
+pars marginalis sulcus
+marginal sulcus
+sulcus of eustachian tube
+sulcus of auditory tube
+precentral sulcus
+superior frontal sulcus
+parapharyngeal space
+lateral pharyngeal space
+retropharyngeal space of head
+retropharyngeal space
+nasal vestibule
+sphenoethmoidal recess
+spheno-ethmoidal recess
+left sphenoethmoid recess
+right sphenoethmoid recess
+posterior osteomeatal unit
+anterior osteomeatal unit
+subperiosteal space
+epidural space
+extradural space
+subgaleal space
+subdural space
+intradural space
+intracanalicular space
+extramedullary space
+cerebrospinal fluid pathway
+subarachnoid space
+prevertebral space
+intramedullary space
+tarsal tunnel
+master knot of henry
+tarsal canal
+fossa ovalis
+saphenous opening
+saphenous hiatus
+compartment of thigh
+adductor canal
+Hunter canal
+subsartorial canal
+posterior compartment of posterior thigh
+palpebral fissure
+parotid space
+pharyngeal space
+prevertebral compartment of perivertebral space
+paraspinal compartment of perivertebral space
+perivertebral space
+danger space
+lateral pharyngeal pouch
+suprasternal space
+posterior cervical space
+masticator space
+carotid space
+condylar canal
+vomerovaginal canal
+cribriform foramen
+subdivision of respiratory conduit space
+interventricular foramen
+foramen of Monro
+cranial conduit space
+epiploic foramen
+aditus to lesser sac
+foramen of Winslow
+omental foramen
+intervertebral foramen
+neural foramen
+pupil
+anatomical orifice
+vomerorostral canal
+foramen magnum
+pharyngeal recess
+laryngeal vestibule
+laryngeal inlet
+subdivision of laryngeal cavity
+intracricoid airway
+paraglottic space
+anterior ethmoid foramen
+posterior ethmoidal foramen
+foramen ovale
+foramen rotundum
+inferior orbital fissure
+internal auditory canal
+iac
+internal acoustic canal
+internal acoustic meatus
+superior orbital fissure
+pterygopalatine canal
+greater palatine canal
+incisive canal
+mental foramen
+palatovaginal canal
+pharyngeal canal
+zygomaticofacial foramen
+jugular foramen
+zygomaticotemporal foramen
+lesser palatine foramen
+lesser palatine foramen of palatine bone
+infraorbital foramen
+foramen of vesalius
+sphenoidal emissary foramen
+optic foramen
+lesser palatine canal of palatine bone
+lesser palatine canal
+infra-orbital canal
+infra-orbital canal of maxilla
+mandibular canal
+vas prominens of external surface of cochlear duct
+sphenopalatine foramen
+foramen spinosum
+tympanic canal
+tympanic calaniculus
+mandibular foramen
+canal of Huguier
+optic canal
+maxillary hiatus of maxilla
+foramen lacerum
+caroticotympanic canaliculus
+mastoid canaliculus
+greater palatine foramen
+musculotubal canal
+canaliculus for chorda tympani
+alveolar canal of maxilla
+alveolar canal
+carotid canal
+geniculum of facial canal
+sulcus tubae
+cochlear canaliculus
+vestibular canaliculus
+mastoid foramen
+facial canal
+cochlear aqueduct
+alveolar foramen of maxilla
+vidian canal
+pterygoid canal
+nasopharyngeal meatus
+incisive foramen
+Stenson foramen
+nasopalatine foramen
+incisive foramen of maxilla
+foramen caecum
+choana
+posterior nasal aperture
+zygomatico-orbital foramen
+canal for eustachian tube
+infra-orbital foramen
+caroticoclinoid foramen
+carotid sulcus
+carotid sulcus of sphenoid bone
+vestibular aqueduct
+lingual canal of mandible
+lingual foramen
+stylomastoid foramen
+tympanic canaliculus
+Jacobson canal
+petrosal fossula
+supraorbital foramen
+emissary sphenoidal foramen
+pars nervosa of jugular foramen
+canal for tensor tympani
+frontal foramen of frontal bone
+frontal foramen
+pars vascularis of jugular foramen
+pars venosa of jugular foramen
+foramen petrosum
+parietal foramen
+fifth lumbar intervertebral foramen
+L5 foramen
+aperture of fourth ventricle
+porta Hepatis
+porta hepatis
+semilunar hiatus
+lacrimal punctum
+abdominal ostium of uterine tube
+uterotubal orifice
+subdivision of rima glottidis
+oval window
+orifice of small intestine
+small intestinal orifice
+tympanic aperture of canaliculus for chorda tympani
+orifice of auditory tube
+helicotrema
+female urethral meatus
+oral opening
+male urethral meatus
+anus
+hilum
+orifice of skull
+rima vestibule
+orifice of bile duct
+bile ductal orifice
+middle ear cavity opening of eustachian tube
+orifice of pancreatic duct
+pancreatic ductal orifice
+introitus of vagina
+orifice of vagina
+vaginal orifice
+vaginal outlet
+orifice of uterine tube
+uterine tube orifice
+uterine ostium
+ureteral orifice
+ureteric orifice
+ureteric ostium
+mercier bar
+orifice of ureter
+ureterovesical orifice
+internal opening of vestibular canaliculus
+orifice of stomach
+gastric orifice
+round window
+internal opening of cochlear canaliculus
+orifice of large intestine
+large intestinal orifice
+naris
+nostril
+external auditory aperture
+rima glottidis
+nasal opening
+sacral hiatus
+median aperture of fourth ventricle
+lateral aperture of fourth ventricle
+right uterotubal orifice
+left uterotubal orifice
+interarytenoid part of rima glottidis
+intercartilagenous part of rima glottidis
+intermembranous part of rima glottidis
+orifice of duodenum
+doudenal orifice
+duodenojejunal orifice
+orifice of major duodenal papilla
+major duodenal papilla orifice
+orifice of minor duodenal papilla
+minor duodenal papilla orifice
+pharyngeal opening of eustachian tube
+pulmonary hilum
+hilum of adrenal gland
+hilum of spleen
+hilum of ovary
+hilum of kidney
+renal hilum
+internal opening of carotid canal
+opening of orbit
+orbital opening
+hiatus of facial canal
+hiatus for greater petrosal nerve
+opening of sphenoid sinus
+opening of sphenoidal sinus
+sphenoidal sinus opening
+external opening of carotid canal
+hiatus for lesser petrosal nerve
+internal auditory opening
+aditus ad antrum
+entrance to antrum
+opening of cochlear canaliculus
+piriform aperture
+opening of frontal sinus
+opening of vestibular canaliculus
+canal of Arnold
+canaliculus innominatus
+petrosal foramen
+prominence of facial canal
+ostium of common bile duct
+common bile ductal ostium
+ostium of cystic duct
+cystic ductal ostium
+ostium of common hepatic duct
+common hepatic ductal ostium
+ostium of right hepatic duct
+right hepatic ductal ostium
+ostium of left hepatic duct
+left hepatic ductal ostium
+ostium of lobular duct of pancreas
+ostium of main pancreatic duct
+main pancreatic ductal ostium
+ostium of accessory pancreatic duct
+accessory pancreatic ductal ostium
+orifice of right uterine tube
+right uterine tube orifice
+orifice of left uterine tube
+left uterine tube orifice
+abdominal orifice of uterine tube
+uterine orifice of uterine tube
+abdominal orifice of right uterine tube
+abdominal orifice of left uterine tube
+uterine orifice of right uterine tube
+uterine orifice of left uterine tube
+right ureteral orifice
+right ureteric orifice
+left ureteral orifice
+left ureteric orifice
+cardiac orifice of stomach
+pyloric orifice
+ileocecal orifice
+orifice of appendix
+appendix orifice
+orifice of ileal papilla
+bauhin valve
+ileal papilla orifice
+inferior nasal meatus
+inferior opening of nasolacrimal duct
+common nasal meatus
+superior nasal meatus
+middle nasal meatus
+dorsal compartment of wrist
+palmar space of wrist
+volar space of wrist
+anatomical snuffbox
+extensor retinaculum
+fourth dorsal compartment of wrist
+flexor retinaculum
+mediastinal compartment
+compartment of leg
+compartment of temporomandibular joint
+subarachnoid cistern
+compartment of foot
+compartment of forearm
+fissure of cerebrum
+superficial posterior compartment of leg
+deep posterior compartment of leg
+inferior compartment of temporomandibular joint
+superior compartment of temporomandibular joint
+prepontine cistern
+pericallosal cistern
+pericallosal sulcus
+cerebellarpontine angle cistern
+suprasellar cistern
+perimesencephalic cistern
+cisterna magna
+suprachiasmatic cistern
+lamina terminalis cistern
+ambient cistern
+crural cistern
+interpeduncular cistern
+quad cistern
+dorsal compartment of foot
+plantar surface of foot
+supinator tunnel
+dorsal compartment of forearm
+extensor compartment of forearm
+volar compartment of forearm
+flexor-pronator forearm
+transverse fissure
+lateral sulcus
+Sylvian sulcus
+Sylvian fissure
+interhemispheric fissure
+hemispheric sulcus
+longitudinal sulcus
+longitudinal fissure
+anterior ramus of lateral sulcus
+ascending ramus of lateral sulcus
+posterior ramus of lateral sulcus
+ventricular foramen
+foramen of skull
+cranial foramina
+common foramen of skull
+rare foramen of skull
+inferior rotundal canal
+medial rotundal canal
+meningo-orbital foramen
+meningo-orbital foramen of Hyrtl
+craniopharyngeal canal
+hypophyseal canal
+lacrimal foramen
+lateral rotundal canal
+organ system cavity
+organ cavity subdivision
+cavity of organ part
+organ part cavity
+subdivision of cavity of organ system subdivision
+organ cavity
+vestibule
+lumen of gastrointestinal tract
+gastrointestinal tract lumen
+lumen of gastrointestinal system
+lumen of bile duct
+subdivision of lumen of large intestine
+cavity of zone of uterus
+lumen of appendix
+appendix lumen
+lumen of duodenum
+doudenal lumen
+fornix of vagina
+subdivision of cavity of stomach
+lumen of segment of duodenum
+cavity of subdivision of serous sac
+lumen of left hepatic biliary tree
+lumen of small intestine
+lumen of segment of ureter
+lumen of right hepatic biliary tree
+lumen of cecum
+cecum lumen
+spiral canal of modiolus of cochlea
+spiral canal of modiolus cochleae
+lumen of intestine
+lumen of zone of jejunum
+subdivision of lumen of small intestine
+lumen of rectum
+lumen of jejunum
+jejunum lumen
+lacrimal lake
+lumen of large intestine
+lumen of segment of male urethra
+lumen of body of gallbladder
+lumen of intrahepatic biliary tree
+lumen of segment of biliary tree
+lumen of segment of colon
+lumen of zone of urinary bladder
+cavity of zone of urinary bladder
+lumen of ileum
+ileum lumen
+lumen of extrahepatic biliary tree
+lumen of neck of gallbladder
+lumen of zone of ileum
+lumen of fundus of gallbladder
+subdivision of cavity of neuraxis
+lumen of colon
+colon lumen
+recess of tympanic membrane
+lumen proper of large intestine
+lumen of crypt of lieberkuhn of large intestine
+lumen of cervix of uterus
+cavity of upper uterine segment
+upper uterine segmental cavity
+cavity of lower uterine segment
+lower uterine segmental cavity
+cavity of fundus of uterus
+endometrial cavity
+endometrial canal
+anterior fornix of vagina
+posterior fornix of vagina
+lumen of gastric gland
+gastric gland lumen
+cavity proper of stomach
+gastric foveola
+lumen of gastric cardiac gland
+gastric cardiac gland lumen
+lumen of principal gland
+principal gland lumen
+lumen of pyloric gland
+pyloric gland lumen
+lumen of descending part of duodenum
+lumen of superior part of duodenum
+lumen of ascending part of duodenum
+lumen of horizontal part of duodenum
+subdivision of peritoneal cavity
+peritoneal cavity subdivision
+subdivision of pericardial cavity
+subdivision of pleural cavity
+abdominal part of peritoneal cavity
+upper abdominal part of peritoneal cavity
+subdivision of cavity of lesser sac
+subdivision of pelvic part of peritoneal cavity
+cavity of lesser sac
+lesser sac cavity
+cavity of omental bursa
+supracolic space
+subdivision of cavity of greater sac
+lower abdominal part of peritoneal cavity
+peritoneal recess
+pelvic part of peritoneal cavity
+infracolic space
+subdivision of infracolic space
+infracolic space subdivision
+cavity of greater sac
+greater sac cavity
+vestibule of lesser sac
+lesser sac vestibule
+vestibule of omental bursa
+splenic recess of lesser sac
+superior recess of lesser sac
+inferior recess of lesser sac
+cavity proper of lesser sac
+vesicouterine pouch
+vesico-uterine pouch
+cul-de-sac
+recto-uterine pouch
+rectouterine pouch
+pouch of Douglas
+rectovesical pouch
+recto-vesical pouch
+pelvic part proper of peritoneal cavity
+cavity of abdominal part of greater sac
+ileocecal recess
+cavity of pelvic part of greater sac
+cavity proper of greater sac
+intersigmoid recess
+peritoneal fossa (space)
+subdivision of supracolic space
+supracolic space subdivision
+duodenal recess
+superior ileocecal recess
+inferior ileocecal recess
+retrocecal recess
+retrocaecal recess
+supravesical fossa (space)
+paravesical fossa
+paracolic gutter
+paracolic sulcus
+ovarian fossa (space)
+inguinal fossa (space)
+pararectal fossa
+left supravesical fossa (space)
+right supravesical fossa (space)
+right paravesical fossa
+left paravesical fossa
+medial paracolic gutter
+lateral paracolic gutter
+right medial paracolic gutter
+left medial paracolic gutter
+left lateral paracolic gutter
+right lateral paracolic gutter
+right ovarian fossa (space)
+left ovarian fossa (space)
+lateral inguinal fossa (space)
+medial inguinal fossa (space)
+left lateral inguinal fossa (space)
+right lateral inguinal fossa (space)
+right medial inguinal fossa (space)
+left medial inguinal fossa (space)
+right pararectal fossa
+left pararectal fossa
+anterior perisplenic space
+posterior perisplenic space
+perisplenic space
+perisplenic space of Onard
+lateral perisplenic space
+subdivision of subphrenic space
+subphrenic space subdivision
+left anterior subphrenic space
+subphrenic space
+subhepatic space
+right subphrenic space
+left subphrenic space
+left posterior subphrenic space
+left posterior subhepatic space
+hepatorenal fossa
+hepatorenal recess of subhepatic space
+Morison pouch
+morison pouch
+left subhepatic space
+left anterior subhepatic space
+duodenojejunal recess
+mesentericoparietal recess
+paraduodenal recess
+retroduodenal recess
+superior duodenal fossa
+superior duodenal recess
+inferior duodenal fossa
+inferior duodenal recess
+right infracolic space
+left infracolic space
+left infracolic space proper
+right infracolic space proper
+pericardial cavity proper
+transverse pericardial sinus
+pericardial recess
+oblique sinus
+oblique pericardial sinus
+superior aortic pericardial recess
+superior aortic recess
+inferior aortic pericardial recess
+inferior aortic recess
+right pulmonic pericardial recess
+right pulmonic recess
+postcaval pericardial recess
+postcaval recess
+left pulmonic pericardial recess
+left pulmonic recess
+right pulmonic vein recess
+right pulmonary venous recess
+left pulmonic vein recess
+left pulmonary venous recess
+anterior portion of superior aortic pericardial recess
+posterior portion of superior aortic pericardial recess
+right lateral portion of superior aortic pericardial recess
+posterior pericardial recess
+pleural recess
+diaphragmatic sulcus
+fissure
+costophrenic sulcus
+costophrenic angle
+costodiaphragmatic recess
+cardiophrenic sulcus
+left costophrenic sulcus
+right costophrenic sulcus
+right cardiophrenic sulcus
+left cardiophrenic sulcus
+horizontal fissure of right lung
+azygos fissure
+oblique fissure
+lumen of segment of minor calyx
+lumen of abdominal part of ureter
+lumen of pelvic part of ureter
+lumen of renal pelvis
+renal pelvic lumen
+lumen of major calyx
+major calyx lumen
+lumen of ureter proper
+ureteral proper lumen
+lumen of minor calyx
+minor calyx lumen
+lumen of segment of major calyx
+lumen of superior minor calyx
+superior minor calyx lumen
+lumen of intermediate minor calyx
+intermediate minor calyx lumen
+lumen of subdivision of intermediate minor calyx
+lumen of subdivision of superior minor calyx
+lumen of inferior minor calyx
+inferior minor calyx lumen
+lumen of subdivision of inferior minor calyx
+lumen of left superior minor calyx
+left superior minor calyx lumen
+lumen of right superior minor calyx
+right superior minor calyx lumen
+lumen of right intermediate minor calyx
+right intermediate minor calyx lumen
+lumen of left intermediate minor calyx
+left intermediate minor calyx lumen
+lumen of anterior intermediate minor calyx
+anterior intermediate minor calyx lumen
+lumen of posterior intermediate minor calyx
+posterior intermediate minor calyx lumen
+lumen of right anterior intermediate minor calyx
+right anterior intermediate minor calyx lumen
+lumen of left anterior intermediate minor calyx
+left anterior intermediate minor calyx lumen
+lumen of left posterior intermediate minor calyx
+left posterior intermediate minor calyx lumen
+lumen of right posterior intermediate minor calyx
+right posterior intermediate minor calyx lumen
+lumen of anterior superior minor calyx
+anterior superior minor calyx lumen
+lumen of posterior superior minor calyx
+posterior superior minor calyx lumen
+lumen of right anterior superior minor calyx
+right anterior superior minor calyx lumen
+lumen of left anterior superior minor calyx
+left anterior superior minor calyx lumen
+lumen of left posterior superior minor calyx
+left posterior superior minor calyx lumen
+lumen of right posterior superior minor calyx
+right posterior superior minor calyx lumen
+lumen of right inferior minor calyx
+right inferior minor calyx lumen
+lumen of left inferior minor calyx
+left inferior minor calyx lumen
+lumen of posterior inferior minor calyx
+posterior inferior minor calyx lumen
+lumen of anterior inferior minor calyx
+anterior inferior minor calyx lumen
+lumen of right posterior inferior minor calyx
+right posterior inferior minor calyx lumen
+lumen of left posterior inferior minor calyx
+left posterior inferior minor calyx lumen
+lumen of left anterior inferior minor calyx
+left anterior inferior minor calyx lumen
+lumen of right anterior inferior minor calyx
+right anterior inferior minor calyx lumen
+lumen of abdominal part of right ureter
+lumen of abdominal part of left ureter
+lumen of pelvic part of left ureter
+lumen of pelvic part of right ureter
+lumen of left renal pelvis
+left renal pelvic lumen
+lumen of right renal pelvis
+right renal pelvic lumen
+lumen of left major calyx
+left major calyx lumen
+lumen of right major calyx
+right major calyx lumen
+lumen of left ureter proper
+left ureteral proper lumen
+lumen of right ureter proper
+right ureteral proper lumen
+lumen of left minor calyx
+left minor calyx lumen
+lumen of right minor calyx
+right minor calyx lumen
+lumen of intermediate major calyx
+intermediate major calyx lumen
+lumen of inferior major calyx
+inferior major calyx lumen
+lumen of superior major calyx
+superior major calyx lumen
+lumen of right intermediate major calyx
+right intermediate major calyx lumen
+lumen of left intermediate major calyx
+left intermediate major calyx lumen
+lumen of right inferior major calyx
+right inferior major calyx lumen
+lumen of left inferior major calyx
+left inferior major calyx lumen
+lumen of left superior major calyx
+left superior major calyx lumen
+lumen of right superior major calyx
+right superior major calyx lumen
+lumen of proximal part of jejunum
+lumen of middle part of jejunum
+lumen of distal part of jejunum
+lumen proper of small intestine
+lumen of small intestinal gland
+small intestinal gland lumen
+lumen of gland of small intestine
+lumen of duodenal gland
+duodenal gland lumen
+lumen of Brunner gland
+lumen of crypt of lieberkuhn of small intestine
+lumen of prostatic part of urethra
+lumen of left hepatic duct
+left hepatic ductal lumen
+lumen of hepatic duct of caudate lobe
+lumen of common bile duct
+common bile ductal lumen
+lumen of cystic duct
+cystic ductal lumen
+lumen of common hepatic duct
+common hepatic ductal lumen
+lumen of right hepatic duct
+right hepatic ductal lumen
+lumen of ascending colon
+ascending colon lumen
+lumen of descending colon
+descending colon lumen
+lumen of transverse colon
+transverse colon lumen
+lumen of sigmoid colon
+sigmoid colon lumen
+lumen of neck of urinary bladder
+cavity of neck of urinary bladder
+lumen of body of urinary bladder
+cavity of body of urinary bladder
+lumen of fundus of urinary bladder
+cavity of fundus of urinary bladder
+lumen of proximal part of ileum
+lumen of distal part of ileum
+lumen of middle part of ileum
+cavity of third ventricle
+third ventricular cavity
+subdivision of cavity of third ventricle
+third ventricular subdivision
+cavity of brain
+cavity of ventricular system of brain
+lumen of central canal of spinal cord
+cavity of central canal of spinal cord
+subdivision of cavity of lateral ventricle
+subdivision of cavity of fourth ventricle
+fourth ventricular subdivision
+cavity of lateral ventricle
+cavity of cerebral aqueduct
+cavity of fourth ventricle
+cavity of subdivision of third ventricle
+pineal recess of third ventricle
+pineal recess
+infundibular recess of third ventricle
+infundibular recess
+suprapineal recess of third ventricle
+suprapineal recess
+hypothalamic sulcus
+cavity of body of third ventricle
+habenular sulcus
+optic recess of third ventricle
+supraoptic recess
+optic recess
+preoptic recess
+cavity of bulb of occipital horn of lateral ventricle
+cavity of calcarine spur
+cavity of temporal horn of lateral ventricle
+cavity of occipital horn of lateral ventricle
+cavity of posterior horn of lateral ventricle
+cavity of atrium of lateral ventricle
+cavity of body of lateral ventricle
+cavity of lateral ventricular body
+cavity of central part of lateral ventricle
+cavity of frontal horn of lateral ventricle
+cavity of collateral trigone of lateral ventricle
+cavity of bulb of occipital horn of right lateral ventricle
+cavity of bulb of occipital horn of left lateral ventricle
+cavity of left calcarine spur
+cavity of right calcarine spur
+cavity of temporal horn of right lateral ventricle
+cavity of temporal horn of left lateral ventricle
+cavity of occipital horn of left lateral ventricle
+cavity of posterior horn of left lateral ventricle
+cavity of occipital horn of right lateral ventricle
+cavity of posterior horn of right lateral ventricle
+cavity of atrium of right lateral ventricle
+cavity of atrium of left lateral ventricle
+cavity of body of left lateral ventricle
+cavity of left lateral ventricular body
+cavity of central part of left lateral ventricle
+cavity of body of right lateral ventricle
+cavity of right lateral ventricular body
+cavity of central part of right lateral ventricle
+cavity of frontal horn of right lateral ventricle
+cavity of frontal horn of left lateral ventricle
+cavity of collateral trigone of right lateral ventricle
+cavity of collateral trigone of left lateral ventricle
+cavity of body of fourth ventricle
+sulcus limitans
+medial sulcus
+median sulcus of fourth ventricle
+lateral recess of fourth ventricle
+rhomboid fossa of fourth ventricle
+floor of fourth ventricle
+rhomboid fossa
+cavity of left lateral ventricle
+cavity of right lateral ventricle
+superior recess of tympanic membrane
+posterior recess of tympanic membrane
+anterior recess of tympanic membrane
+paranasal sinus
+lumen of region of prostatic urethra
+lumen of zone of stomach
+cavity of zone of stomach
+saccular recess
+middle ear cavity
+tympanic cavity
+cochlear recess
+sinus tympani
+mastoid air cell
+spiral sulcus
+tympanic cell
+subdivision of tympanic cavity
+mastoid antrum
+lumen of prostatic sinus
+prostatic sinus lumen
+medullary cavity
+medullary canal
+lumen of prostatic duct
+prostatic ductal lumen
+lumen of lymphatic vessel
+lymphatic vessel lumen
+anterior cell of ethmoid sinus
+anterior ethmoidal cell
+anterior ethmoid air cells
+posterior cell of ethmoid sinus
+posterior ethmoid air cells
+posterior ethmoidal cell
+ethmoid sinus
+ethmoidal sinus
+frontal sinus
+maxillary sinus
+sphenoid sinus
+sphenoidal sinus
+lumen of collicular part of prostatic urethra
+lumen of supracollicular part of prostatic urethra
+supracollicular urethral lumen
+lumen of subcollicular part of prostatic urethra
+subcollicular urethral lumen
+lumen proper of body of stomach
+lumen of body of stomach
+cavity of body of stomach
+lumen of fundus of stomach
+cavity of fundus of stomach
+lumen of cardia of stomach
+lumen of gastroduodenal junction
+gastroduodenal junction lumen
+cavity of gastroduodenal junction
+lumen of pyloric antrum
+cavity of pyloric antrum
+pyloric antrum lumen
+lumen of pyloric canal
+pyloric canal lumen
+cavity of pyloric canal
+inner spiral sulcus of spiral organ
+outer spiral sulcus of spiral organ
+epitympanum
+mesotympanum
+tympanic cavity proper
+hypotympanum
+hypotympanic recess
+subdivision of epitympanic recess
+posterior sinus of posterior wall of middle ear cavity
+posterior sinus of tympanic cavity
+cupular part of epitympanic recess
+cog of epitympanic recess
+lumen of duct of submucosal gland of prostate
+lumen of main prostatic duct
+main prostatic ductal lumen
+lumen of lobular duct of prostate
+lumen of duct of mucosal gland of prostate
+lumen of lumbar lymphatic trunk
+lumbar lymphatic trunk lumen
+lumen of intestinal lymphatic trunk
+intestinal lymphatic trunk lumen
+lumen of thoracic duct
+lumen of left lymphatic duct
+thoracic ductal lumen
+lumen of right lymphatic duct
+anterior cranial fossa
+anterior fossa
+fossa for lacrimal sac
+posterior cranial fossa
+posterior fossa
+subdivision of middle cranial fossa
+hypophysial fossa
+cavity of bone organ
+renal sinus
+sinus of kidney
+lumen of pancreatic duct tree
+pancreatic ductal tree lumen
+lumen of ureter
+ureteral lumen
+lumen of uterine tube
+uterine tube lumen
+lumen of pancreatic duct
+pancreatic ductal lumen
+synovial cavity of joint
+joint cavity
+synovial cavity
+lumen of biliary tree
+biliary tree lumen
+cavity of stomach
+lumen of stomach
+lumen of gallbladder
+gallbladder lumen
+cavity of neuraxis
+cavity of ventricular system of neuraxis
+neuraxis cavity
+lumen of pancreatic acinus
+pancreatic acinar lumen
+lumen of intraprostatic part of ejaculatory duct
+cavity of uterus
+uterine cavity
+cavity of serous sac
+cavity of urinary bladder
+urinary bladder lumen
+lumen of urinary bladder
+renal sinus of right kidney
+renal sinus of left kidney
+lumen of right ureter
+right ureteral lumen
+lumen of left ureter
+left ureteral lumen
+lumen of right uterine tube
+right uterine tube lumen
+lumen of left uterine tube
+left uterine tube lumen
+lumen of pancreatic ductule
+pancreatic ductule lumen
+lumen of intercalated duct of pancreas
+lumen of main pancreatic duct
+main pancreatic ductal lumen
+lumen of lobular duct of pancreas
+lumen of accessory pancreatic duct
+accessory pancreatic ductal lumen
+lumen of intralobular duct of pancreas
+lumen of interlobular duct of pancreas
+synovial cavity of knee joint
+synovial cavity of acromioclavicular joint
+synovial cavity of glenohumeral joint
+synovial cavity of right knee joint
+synovial cavity of left knee joint
+synovial cavity of left acromioclavicular joint
+synovial cavity of right acromioclavicular joint
+synovial cavity of left glenohumeral joint
+synovial cavity of right glenohumeral joint
+lumen of intraprostatic part of right ejaculatory duct
+lumen of intraprostatic part of left ejaculatory duct
+pericardial cavity
+pleural space
+pleural cavity
+peritoneal cavity
+vestibule of vagina
+vaginal vestibule
+vulval vestibule
+pharyngeal vestibule
+submandibular space
+ulnar tunnel
+cubital tunnel
+cubital tunnel retinaculum
+Osborne band
+arcuate ligament of cubital tunnel
+triangular space
+quadrilateral space
+triangular interval
+rotator interval
+supraspinatus outlet
+coracoacromial arch

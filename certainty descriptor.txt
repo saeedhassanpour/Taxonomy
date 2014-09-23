@@ -1,0 +1,31 @@
+certainty descriptor
+confidence
+uncertainty
+not applicable
+no
+yes
+almost certainly not
+almost certainly
+definitely not
+equivocal
+indeterminate
+unable to determine
+certainty of HCC
+uncertain
+definitely
+definite
+certain
+probably
+probable
+suggestive
+possibly
+may be
+maybe
+possible
+known
+suspected
+probably not
+unknown
+indeterminate or low suspicion for HCC
+histologically confirmed HCC
+high suspicion for HCC

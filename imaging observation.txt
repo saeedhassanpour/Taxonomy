@@ -1,0 +1,1449 @@
+imaging observation
+density-related entity
+attachment
+lesion characteristic
+visible anatomic entity
+opacity
+imaging sign
+assessment
+asymmetry
+echotexture
+perfusion imaging observation
+enhancement
+area of enhancement
+margin
+liver imaging observation
+observation (liver)
+cortical bone observation
+destruction pattern
+enhancement pattern
+water density
+central hypodensity
+soft tissue density
+soft-tissue density
+attachment to pleura
+pleural attachment
+attachment to bronchus
+attachment to vessel
+lesion rim or capsule
+lesion substance characteristics
+lesion periphery
+perilesional tissue characteristics
+extraosseous component of lesion
+extra-osseous component of lesion
+lesion shape
+lesion enhancement
+lesion load
+lesion quantity
+lesion boundary
+effect of mass on surrounding tissue
+lesion effect on liver
+lesion focality
+lesion margin
+lesion transition zone
+lesion matrix characteristic
+lesion brightness
+solitary lesion
+multiple lesions
+satellite lesions present
+multiple lesions 2-5
+2-5 lesions
+multiple lesions 6-10
+6-10 lesions
+multiple lesions >10
+more than 10 lesions
+greater than 10 lesions
+>10 lesions
+abrupt interface
+well-defined interface
+crisp interface
+sharp interface
+echogenic halo
+vague interface
+entering airway
+no effect of mass on surrounding tissue
+no effect on surrounding tissue
+tumor thrombus in portal vein
+obstructs biliary ducts
+bland thrombus in portal vein
+retracts capsule of liver
+intermediate transition
+wide transition
+narrow transition
+no discernible lesion matrix
+bronchiolar prominence
+visible internal vessels
+blood products (lesion)
+blood in or around lesion
+septal lines
+Kerley lines
+subpleural curvilinear line
+pseudoplaque
+parenchymal band
+parenchymal opacification
+semi-consolidation
+juxtaphrenic peak
+ground-glass opacity
+ground glass opacity
+ground glass
+ground glass attenuation
+ground-glass
+Kerley A lines
+Kerley B lines
+Kerley C lines
+chest abdomen sign
+cervicothoracic sign
+chalice sign
+goblet sign
+Bergman sign
+wine glass sign
+wine goblet sign
+Bergman coiled catheter sign
+coiled catheter sign
+clover-leaf skull
+Kleeblattsch„del
+cloverleaf skull
+Kleeblattschaedel
+clear space sign
+central lucency sign
+celery stalk metaphysis
+celery stick sign
+celery stick metaphysis
+celery stalk sign
+fallen fragment sign
+fallen fragment
+falx sign
+cardiac blur sign
+extrapleural air sign
+cardiac double density sign
+extrapleural sign
+epicardial fat pad sign
+esophageal tube displacement sign
+candy cane sign
+faceless kidney
+carpal sign
+Catlin sign
+falciform ligament sign
+eye-of-the-tiger sign
+tiger eye sign
+Carman meniscus sign
+carotid string sign
+angiographic string sign
+fabella sign
+enlargement of the hilar periportal space
+calyceal crescent sign
+cancellous ulcer osteoma
+empty delta sign
+delta sign
+empty triangle sign
+bullet-shaped vertebra sign
+bullet-nose vertebra
+bullet-shaped vertebra
+bullet vertebrae
+bullet-nosed vertebra
+button sequestrum sign
+empty mediastinum sign
+duodenal wind sock sign
+windsock sign
+brownian movement sign
+dural tail sign
+bulging fissure sign
+drowned hilus sign
+bull's-eye sign of GI tract
+bullseye sign of GI tract
+egg-on-its-side heart
+apple-on-a-string heart
+egg-on-a-string heart
+egg-shaped heart
+ellipse sign
+bullet and bodkin sign
+bullet-on-a-bodkin
+bulging tumor sign
+early filling vein sign
+edge sign
+bull's-eye falciform ligament sign
+bullseye falciform ligament sign
+box-like heart
+drooping lily sign
+incomplete border sign of lung
+drooping shoulder sign
+bridging vascular sign
+boutonniere deformity
+iliopsoas-gluteus medius sign
+dripping candle wax sign
+dripping wax sign
+flowing candle wax sign
+dripping candle sign
+dripping candlewax sign
+incomplete border sign of abdomen
+dromedary hump
+dromedary kidney
+bow tie sign
+brim sign
+double posterior cruciate ligament sign
+double PCL sign
+hyperlucent hemithorax sign
+bone bruise sign
+hypernephroma halo sign
+double spinous process sign
+doughnut sign
+ice cream cone sign
+boot-shaped heart sign
+coeur en sabot
+border sign
+draped aorta sign
+iceberg sign
+thoracoabdominal sign
+tip-of-the-iceberg sign
+hypotensive nephrogram sign
+double track sign
+bone-in-bone sign
+bone-within-a-bone
+bone-scan double density sign
+hysterogram sign
+double-line sign
+cobra head sign
+spring onion sign
+cobra head ureter
+snake head ureter
+colon cutoff sign
+colon cut-off sign
+Codman triangle
+Codman angle
+coiled tube sign
+cockade image
+cocktail sausage sign
+collar sign
+cottage loaf sign
+collateral vein sign
+coin lesion
+SPN
+solitary pulmonary nodule
+collapsing cord sign
+cotton wool sign
+cracked walnut sign
+medial stripe sign
+right posterior hepatic notch sign
+beehive-on-the-bladder sign
+golf ball-on-tee sign
+ball-on-tee sign
+ball-and-cup sign
+ball-on-a-tee sign
+golf ball-on-a-tee sign
+Andersson lesion
+angel wings sign
+Cromlech sign
+blueberry muffin sign
+right paratracheal stripe sign
+right paratracheal stripe
+MCA dot sign
+middle cerebral artery dot sign
+crescent sign
+quarter-moon sign
+air crescent sign
+air meniscus sign
+Monod sign
+air crescent
+marble bone
+rice kernel sign
+ribbon ribs
+ribbon rib sign
+twisted-ribbon rib sign
+mandibular mantle sign
+air esophagram sign
+Golden S sign
+reverse S sign of Golden
+S sign
+Golden sign
+S sign of Golden
+kidney crescent sign
+crescent sign kidney
+crescent sign of kidney
+beaded ureter
+corkscrew ureter
+corkscrew distal ureter sign
+anteater nose sign
+anteater sign
+ground-glass sign
+CT angiogram sign
+mega-aeroesophagus sign
+CT arrowhead sign
+growing calculus sign
+anterior drawer sign
+anterior subluxation of the tibia
+anterior tibial translocation sign
+anterior displacement of the tibia
+angle sign
+gravitational shift sign
+crossover sign
+Rigler notch sign
+Medusa locks sign
+tangled thick cord
+whirlpool
+breadcrumbs
+beehive
+bowler hat sign
+Medusa head sign
+caput medusae sign
+palm tree sign
+rigid loop sign
+ground glass pattern
+crowded carpal sign
+Rigler sign
+double wall sign
+bas-relief sign
+ghost vertebrae sign
+ribbon bowel
+main en lorgnette deformity
+opera glass hand
+maiden waist deformity
+narrow-waisted maiden
+reversed halo sign
+crazy-paving sign
+gloved finger sign
+finger-in-glove sign
+gloved finger shadow sign
+reversed appearance sign
+magnification sign
+rim sign of adrenal
+adrenal rim sign
+rim sign of kidney
+cortical rim sign
+kidney rim sign
+rim sign of renal capsule
+reverse rim sign
+cord sign
+converging line sign
+fluid-fluid level
+lollipop sign of diverticula
+focal hepatic hot spot sign
+hot caudate lobe
+cookie cutter lesion
+cookie bite lesion
+corkscrew collaterals
+fragmented staghorn calculus
+fragmented staghorn
+fragmented stag horm
+renal halo sign
+perirenal fat sign
+subcapsular C sign
+Luftsichel sign
+lucent liver sign
+renal calyceal axis sign
+struggling antrum sign
+Frostberg inverted-3 sign
+Frostberg sign
+inverted three sign
+inverted 3 sign
+Frostberg inverted-three sign
+four-tendon sign
+corduroy cloth vertebra
+corduroy sign
+corduroy appearance
+striped colon sign
+rat tail narrowing sign
+lucent cleft sign
+loop-to-loop colon
+stripe sign of chest
+Rancke complex
+fragment-in-notch sign
+corkscrew bowel sign
+corkscrew bowel
+corkscrew sign
+gasless abdomen sign
+cortical ring sign of wrist
+Madelung deformity
+reverse 5 sign
+lying-down adrenal gland
+pancake adrenal gland
+costal cartilage sign
+gastric cannonball sign
+sunburst pattern
+sun burst sign
+sun burst pattern
+sunburst sign
+reverse 3 sign
+fuzzy fluid level sign
+corner sign
+gallbladder inertia sign
+cortical ring sign of mandible
+sulcus sign
+reversal sign
+lumen with a lumen sign
+lollipop-tree sign
+ram's horn sign
+stripe sign of brain
+tigroid pattern, leopard skin sign
+football sign
+radial bands sign
+string-of-pearls sign of renal artery
+lollipop sign
+string-of-pearls sign of bowel
+rabbit ears sign
+string sign
+gastrointestinal string sign
+pyloric string sign
+flat waist sign
+flared mandible sign
+lead pipe sign
+lead pipe colon
+gas pipe sign
+pseudo-fracture
+Looser zone
+laterally displaced ureter sign
+lateral displaced ureter sign
+flat tire sign
+comb sign
+Fleischner sign of ileum
+inverted umbrella sign
+life buoy sign
+puff-of-smoke sign
+stipple sign
+pubic varus sign
+ischial varus sign
+Stierlin sign
+leontiasis ossea
+comet sign
+floating aorta sign
+Fleischner line
+lemon sign
+sternal cupping sign
+psoas sign
+stepladder sign
+pseudotumor sign
+left atrial notch sign
+Fleischner sign of chest
+plump hilus sign
+plump hilum sign
+colon sign
+floating viscera sign
+contracting cord sign
+pyloric tit sign
+tit sign
+lobster claw
+little finger sign
+stretched bronchus sign
+bent bronchus sign
+contrast bubble sign
+floppy thumb sign
+strawberry skull
+putty kidney
+linguine sign
+free-floating loose thread sign
+floating myodil sign
+concentric ring sign
+target sign of kidney
+floating tooth sign
+continuous diaphragm sign
+light bulb sign
+straight line sign
+pulmonary sling
+pseudokidney sign
+step-off vertebral body sign
+leafless tree sign
+pseudocalculus sign
+steeple sign
+gothic arch sign
+starry sky
+figure 3 sign
+kissing sequestra sign
+figure E sign
+reverse figure 3 sign
+kinky chest tube sign
+kinked chest tube sign
+pleural tail
+feeding vessel sign
+fickle finger sign
+kidney sweat
+Playboy bunny sign
+Playboy rabbit sign
+splenic pedicle sign
+Poppel sign
+squeeze sign
+lacunar skull
+Luckensch„del
+Luckenschaedel
+craniolacunae
+craniolacunia
+shadow sign
+wall-echo-shadow complex
+WES complex
+double-arc-shadow sign
+WES sign
+wall-echo-shadow sign
+lace-like pattern of ovary
+popcorn calcification sign
+spur sign
+wedge sign
+fish vertebra
+codfish vertebra
+fish vertebrae
+wave sign
+spotted nephrogram
+polka-dot sign
+polka-dot pattern
+lace-like pattern of joint
+figure 8 sign of brain
+figure-of-eight sign of brain
+figure eight sign of brain
+knuckle sign
+spoke wheel sign of bowel
+mesenteric spoke wheel sign
+mesenteric spokewheel sign
+bowel spokewheel sign
+pockets-of-gas sign
+q
+watering can perineum
+lateral femoral notch sign
+deep lateral femoral notch sign
+pruned tree sign
+starry night sign
+flame shaped breast tissue
+flank stripe sign
+staghorn calculus
+staghorn sign
+staghorn calculi
+coral calculus
+pronator quadratus sign
+pronator sign
+lateral capsular sign
+whirlpool sign
+whirl sign
+fishhook ureter
+fish hook sign
+J-shaped ureter
+fishhooking
+fish hook ureter
+hockey stick ureter
+lambda sign of chest
+stack of coins sign
+posterior wedging sign
+whalebone-in-a-corset sign
+Westermark sign
+squeezed ventricle sign
+posterior vertebral scalloping
+posterior vertebral scalloping sign
+lambda sign of aorta
+fissure sign
+pneumoarthrogram sign
+spoke wheel pattern of kidney
+spoke wheel sign of kidney
+renal spoke wheel sign
+renal spokewheel sign
+waterfall hilum
+waterfall sign
+hilar comma sign
+water lily sign
+camalote sign
+sign of the camalote
+split pleura sign
+wasp waist sign
+double decidual sac sign
+double sac sign
+double decidua sign
+hydronephrotic rim
+blade-of-grass sign
+flame sign
+V sign of bone
+blister of bone
+bone blister sign
+double duct sign
+hyperattenuating crescent sign
+hourglass appearance
+double condom sign
+bladder ear sign
+bladder sign
+hump sign
+double contour sign
+blister-of-the-cervix sign
+cervical blister sign
+double outline sign
+block vertebra
+block vertebrae
+honeycomb lung
+honeycombing
+end-stage lung disease
+hook sign
+dot and dash pattern
+bite sign
+double bubble sign
+hot cross bun sign
+double cava sign
+hot nose sign
+black pleura sign
+bird's beak sign of colon
+bird's beak sign, bird beak sign, beak sign
+double bleb sign
+hot air balloon sign
+double bronchial wall sign
+bird's beak sign of esophagus
+bird's beak sign, bird beak sign, beak sign, rat tail sign
+bear paw sign
+distended common bile duct
+hole-within-a-hole pattern
+notched ureter sign
+nipple sign
+divergent spinous processes sign
+holly leaf appearance
+holly leaf sign
+beaten brass sign
+beaten silver sign
+beaten silver pattern
+beaten brass pattern
+bare orbit sign
+hilum overlay sign
+displaced spinolaminar line sign
+Neuhaser sign
+negative pyelogram
+hitchhiker thumb
+hitch-hiker's thumb
+disruptive diaphragmatic echo sign
+beak sign of pylorus
+beak sign
+claw sign
+big rib sign
+Honda sign
+H sign
+butterfly sign
+dog leg sign
+bell-shaped ureter sign
+dog's ear sign
+dog ear sign
+musculoskeletal crescent sign
+crescent sign musculoskeletal
+multiple concentric ring sign
+hide-bound bowel sign
+hidebound bowel
+navicular fat stripe sign
+displaced crus sign
+Hill-Sachs deformity sign
+Hill-Sachs sign
+bamboo spine
+banana sign
+displaced retroperitoneal fat sign
+hilum convergence sign
+nasopharyngeal soft-tissue sign
+high-attenuating crescent sign
+discarded string sign
+naked facet sign
+Naclerio V sign
+V sign of Naclerio
+balloon-on-a-string sign
+hiked-up renal pelvis
+purse-string pelvis
+purse-string renal pelvis
+hiked-up pelvis
+disk kidney
+lump kidney
+pancake kidney
+pelvic lump kidney
+disc kidney
+doughnut kidney
+cake kidney
+vascular convergence sign
+vascular convergence
+applesauce sign
+apple sauce sign
+soap bubble sign
+dilated transverse colon sign
+Hellmer sign
+asterisk sign
+mucosal stripe sign
+Mount Fuji sign
+axillary mass sign
+dimple sign
+hematocrit effect
+moulage sign
+headcheese sign
+head cheese sign
+deviated descending thoracic aorta sign
+arterial cut-off sign
+heel pad sign
+diastolic washout sign
+ball sign
+B6 bronchus sign
+hepatic angle sign
+disappearing basal ganglia sign
+mulberry stone
+herniated mediastinal pleural sac sign
+disappearing ellipse sign
+bag-of-worms sign
+molar tooth sign of brain
+arcuate sign
+dependent viscera sign
+harlequin appearance
+harlequin eye, harlequin sign
+moth-eaten calyx
+moon crescent sign
+Deuel halo sign
+Hawkins sign
+arrowhead sign
+halo sign of lung
+CT halo sign
+monocle sign
+molar tooth sign of inner ear
+Hampton hump sign
+dense vessel sign
+anterior sulcus sign
+double diaphragm sign
+anterior tracheal displacement sign
+aortic nipple sign
+cyclops lesion
+half moon sign (shoulder)
+ring stricture sign
+duodenal ring sign
+miliary pattern
+miliary opacities
+migrating staple sign
+ring sign of colon
+hyperattenuating ring sign
+colonic ring sign
+dagger sign
+halo sign of breast
+aortic swallowing sign
+ring sign of adrenal
+adrenal ring sign
+midsternal stripe sign
+antral bowing sign
+hair-on-end sign
+sunburst periosteal reaction
+hair-on-end pattern
+hair-on-end skull
+spiculated periosteal reaction
+curlicue ureter sign
+half moon sign (chest)
+curvature sign
+antral pad sign
+Mickey Mouse sign of bladder
+Mickey Mouse sign
+ring of fire sign
+halo sign of liver
+deflected calyx sign
+apical sign
+dunce cap sign
+applecore lesion
+apple core sign
+napkin ring lesion
+napkin ring sign
+dense metaphyseal band sign
+halo sign of duodenum
+Apert syndrome
+molar tooth sign of bladder
+ring-around-the-artery sign
+Milwaukee shoulder
+apical cap
+apical cap sign
+halo sign of heart
+deep sulcus sign
+rim sign of gallbladder
+thickened gallbladder wall sign
+gallbladder rim sign
+pericholecystic rim sign
+Cupid bow vertebra
+Cupid bow contour
+gull wing sign
+gull wings
+mouse ears
+metacarpal sign
+rim sign of shoulder
+shoulder rim sign
+rim sign of right upper quadrant
+right upper quadrant rim sign
+mesenteric vein sign
+anteriorly migrating abdominal aorta sign
+cupola sign
+H vertebra
+H-shaped vertebra
+Lincoln Log sign
+H-shaped vertebral body
+Lincoln Log vertebra
+Mercedes Benz sign
+crow foot sign
+Mercedes sign
+rim sign of pelvis
+pelvic rim sign
+melting sign
+gull wing appearance
+sawtooth ureter
+thymic wave sign
+sausage digit
+cocktail sausage digit
+thumbprinting
+sandwich vertebrae
+sandwich vertebra
+sandwich sign
+thumb sign
+scallop sign of wrist
+tibiotalar slant sign
+scallop sign of pleura
+Schmorl node
+Schmorl nodule
+tip of the iceberg sign
+obturator sign
+Semitic nose sign
+tracheal overlap sign
+top-of-the-knob sign
+sedimentation sign
+obscured outer edge sign
+scimitar sign of artery
+arterial scimitar sign
+scimitar sign
+nutmeg liver
+toothpaste sign
+nubbin sign
+tooth sign
+beaded septum sign
+saber sheath trachea sign
+sabre sheath trachea, scabbard trachea
+thickened posterior tracheal stripe sign
+rugger jersey spine
+thick wall sign
+round nipple shadow sign
+rosary sign
+Terry Thomas sign
+David Letterman sign
+gap-tooth sign
+sail sign of chest
+sagging rope sign
+thimble bladder
+thickened sclera sign
+saber shin sign
+third mogul sign
+sandstorm appearance
+sandstorm sign
+Throckmorton sign
+thread-and-streak sign of liver
+salt-and-pepper sign
+salt-and-pepper pattern
+salt and pepper skull
+thread-and-streak sign of kidney
+thorn sign
+sail sign of elbow
+elbow sail sign
+cobblestone pattern
+coffee bean sign
+bent inner tube sign
+kidney bean sign
+target sign of lung
+target sign of liver
+target liver lesion
+target lesion
+target sign of extremity
+Mickey Mouse sign of liver
+swan neck deformity
+teardrop sign of ankle
+ankle teardrop sign
+tau sign
+comet tail sign
+tattoo sign
+scotty dog sign
+scottie dog sign
+Erlenmeyer flask deformity
+tennis racquet sign
+rosary bead esophagus sign
+corkscrew esophagus sign
+telephone receiver femur
+telephone receiver-shaped femora
+telephone-shaped femora
+rocker-bottom thymus sign
+ripple sign
+teat and udder sign
+inverted Napoleon hat sign
+bow sign
+Napoleon hat sign
+absent bow tie sign
+teardrop sign of orbits
+systolic jet sign
+air bronchogram sign
+air bronchogram
+symmetric liver sign
+acorn deformity
+spinning top urethra
+spinning top configuration
+arrowhead urethra
+swirl sign
+acute kyphosis sign
+supinator sign
+target practice sign
+tangent sign
+talar beak sign
+tacked-down sign
+target sign of colon
+C sign
+target sign of brain
+target sign of bowel wall
+butterfly shadow
+jack stone
+jackstone calculus
+phantom calyx
+jailbars sign
+jail bars sign
+sonographic bull's-eye sign
+phalangeal sign
+ivory vertebra sign
+ivory vertebra
+J sign
+vacuum disk phenomenon
+vacuum-disc phenomenon
+persistent loop sign
+soft-tissue rim sign
+tissue rim sign
+picture frame vertebral body
+picture frame sign
+spheroid sign
+vertebral fade-off sign
+spine sign
+jet sign
+ureteral jet
+bladder jet
+fat C2 sign
+joint mice
+synovial osteochondromatosis
+fat halo sign
+vena cava sign
+picket fence
+picket-fence sign
+spastic urinary tract sign
+vascular plethora sign
+Spalding sign
+Phrygian cap
+Phrygian cap gallbladder
+spaghetti sign
+phantom sign
+vanishing tumor sign
+vascular nodule sign
+jet phenomenon
+espohageal jet
+keyhole sign of bladder
+fat sign
+gallbladder fat sign
+wall sign of ovary
+halo sign of ovary
+pistol grip deformity
+spiral sign
+pipestem ureter
+wall sign of lung
+lung wall sign
+FBI sign
+fat-blood interface sign
+keyhole sign of duodenum
+fat pad sign
+elbow fat pad sign
+juxtaphrenic peak sign
+wagging tongue sign
+wagging tongue rib calcifcation
+spinnaker sail sign
+thymic sail sign
+pine cone bladder
+Christmas tree bladder
+pine tree bladder
+W sign
+spider web
+pie-in-the-sky bladder
+keyboard sign
+fat ring sign
+vascular cut-off sign
+spade shape
+vallecular sign
+pelvocalyceal wall opacification sign
+interface sign
+interstitial line sign
+Pellegrini-Stieda sign
+K”hler-Pellegrini shadow
+Stieda shadow
+infinity sign
+skewed nasal septum sign
+Pelken spur sign
+twin peak sign
+lambda sign
+twin peaks
+turret exostosis
+pedicle sign
+sinking pellet sign
+intercostal bulging lung sign
+intrahepatic gas sign
+pericardial line sign
+smile sign
+upper triangle sign
+intraosseous gas sign
+intravertebral vacuum cleft sign
+umbrella sign
+pericardial fat tag sign
+small-bowel feces sign
+small orbit sign
+pencil-in-cup deformity
+ulcer-within-an-ulcer sign
+ulcer-in-ulcer
+ulcer-within-ulcer
+small heart sign
+twisted tape sign
+ivory osteoma
+vacuum facet sign
+perirenal P sign
+perinephric P sign
+snowstorm pattern of uterus
+snowstorm pattern of breast
+perirenal cobweb
+ivory phalanx sign
+inverted U sign
+V sign of chest
+V sign of lung
+snowman sign
+figure-eight sign of heart
+snowman heart
+figure-8 sign of heart
+peripheral fat sign
+snake head sign
+peripheral bubble sign
+urachal sign
+inverted V sign
+twinkling star sign
+paradoxical movement of the mediastinum
+paradoxical mediastinal movement sign
+sickle sign
+shoulder sign
+paradoxical halo sign
+trolley-track sign
+tram-track sign
+triple bubble sign
+shoulder pad sign
+panda sign
+trident hand
+pancake brain
+shotgun sign
+parallel channel sign
+parchment heart
+signet ring sign of chest
+pearl ring sign
+tubular artery sign
+trumpet sign
+parallel track sign
+sign of the cane
+cane sign
+incomplete fissure sign
+incomplete pulmonary interlobar fissure sign
+sigmoid elevator sign
+Trummerfeld scurvy zone
+trough line sign
+indefinite uterus sign
+pedestal sign
+single bubble sign
+tumor track sign
+silver fork deformity
+dinner fork deformity
+pearl necklace gallbladder
+pearl necklace sign
+tumbling bullet sign
+indrawn pleura sign
+tumbling bolt sign
+silhouette sign
+pear-shaped bladder
+tear drop-shaped bladder
+teardrop-shaped bladder
+tear drop bladder
+teardrop bladder
+incomplete ring sign of duodenum
+incomplete ring sign of vertebra
+signet ring sign of kidney
+papillary ring sign
+participating tail
+tubular small bowel
+toothpaste small bowel
+tram track sign of brain
+tram-track sign of brain
+one-two-three sign
+Garland triad sign
+1-2-3 sign
+shading sign
+Seurat spleen sign
+one-bone-two-bone sign
+tram track rib sign
+tram track sign of rib
+tram track rib calcification
+tram-track rib sign
+tram line sign
+serpiginous tract sign
+omega sign
+track sign of femur
+track sign
+okra sign
+sentinel lines sign
+onion skin sign
+onion ring appearance
+transverse stripe sign
+tram track sign of optic nerve
+tram-track sign of optic nerve
+optic nerve tram track sign
+sharp edge sign
+tram track sign of chest
+tram-track sign of chest
+shaggy heart sign
+tram track sign of bone scan
+tram-track sign of bone scan
+paintbrush appearance
+Shmoo-shaped heart
+triangular sign
+slipped ice cream scoop sign
+triangle sign
+shepherd's crook sign
+shepherd crook sign
+shepherd's crook deformity
+shepard's crook deformity
+Page kidney
+tree-in-bud sign
+tree-in-bud opacity
+tree-in-bud opacities
+padlock sign
+shell sign
+organ point sign
+trapped air sign
+zoning sign
+abdominal fat necrosis sign
+absent collecting duct system
+3 sign
+three sign
+supinator notch sign
+absent liver sign
+accordian sign
+superior triangle sign
+absent gastric air bubble sign
+absent inferior vena cava sign
+absent IVC sign
+Wimberger sign of syphilis
+Wimberger sign
+widened disk space sign
+widened interspinous distance sign
+white matter buckling sign
+white line sign
+white line of Frankel
+Wimberger sign of scurvy
+Wimberger ring sign
+widened suture sign
+widened loop sign
+yo-yo-on-a-string sign
+yo-yo sign
+yin-yang sign
+whiskering effect
+cluster-of-grapes sign
+cluster of grapes
+cluster of grapes sign
+internal air bronchogram sign
+internal air bronchogram
+intra-tumoral air bronchogram
+cluster-of-grapes sign of lung
+cluster of grapes sign of lung
+cluster-of-grapes sign of uterus
+cluster of grapes sign of uterus
+cluster-of-grapes sign of kidney
+septation sign
+cluster of grapes sign of kidney
+cluster-of-grapes sign of liver
+cluster of grapes sign of liver
+tie-breaking rules
+BI-RADS assessment
+BI-RADS category
+BIRADS assessment
+intermediate concern
+BI-RADS N/A
+BIRADS N/A
+BIRADS NA
+BI-RADS NA
+BI-RADS 0
+BIRADS 0
+BI-RADS category 0
+BI-RADS 6
+BI-RADS category 6
+BIRADS 6
+BI-RADS 5
+BI-RADS category 5
+BIRADS 5
+BI-RADS 2
+BI-RADS category 2
+BIRADS 2
+BI-RADS 1
+BIRADS 1
+BI-RADS category 1
+BI-RADS 4C
+BIRADS 4C
+BI-RADS category 4C
+BI-RADS 4B
+BI-RADS category 4B
+BIRADS 4
+BI-RADS 4A
+BIRADS 4A
+BI-RADS category 4A
+BI-RADS 4
+BI-RADS category 4
+BI-RADS 3
+BI-RADS category 3
+BIRADS 3
+global asymmetry
+focal asymmetry
+homogeneous background echotexture
+smooth background echotexture
+heterogeneous background echotexture
+fibrocystic background echotexture
+mixed background echotexture
+heterogeneous background
+complex background echotexture
+homogeneous background echotexture-fat
+smooth background echotexture-fat
+homogeneous background echotexture fat
+fat homogeneous background echotexture
+homogeneous background echotexture-fibroglandular
+fibroglandular homogeneous background echotexture
+homogeneous background echotexture fibroglandular
+smooth background echotexture-fibroglandular
+ischemic penumbra
+ischemic core
+non-mass-like enhancement
+infiltrate
+foci
+focus
+nodule
+lesion
+reticulation
+satellite nodules
+pseudolesion
+multiple regions enhancement
+multiple region enhancement
+diffuse enhancement
+focal enhancement
+linear enhancement
+regional enhancement
+ductal enhancement
+segmental enhancement
+hypervascular lesion
+mass
+density
+vague density
+mass in or on skin
+extramammary mass
+superficial mass
+cutaneous mass
+epidermal mass
+dermatologic mass
+dermal mass
+subcutaneous mass
+liver mass
+irregular mass
+stellate mass
+irregularly-shaped mass
+spiculated mass
+breast mass
+breast density
+nodular enhancement
+breast nodule
+chest mass
+thoracic mass
+oval mass
+elliptical mass
+egg-shaped mass
+gently lobulated mass
+macrolobulated mass
+ovoid mass
+round mass
+circular mass
+globular mass
+spherical mass
+ball-shaped mass
+lobular mass
+lobulated mass
+lung mass
+intermediate margin
+non-circumscribed margin
+not circumscribed margin
+mixed margin
+circumscribed margin
+sharply-defined margin
+well-defined margin
+neither smooth nor irregular margin
+moderately irregular margin
+neither well nor ill defined margin
+neither well- nor ill-defined margin
+moderately well-defined margin
+moderately well defined margin
+moderately smooth margin
+moderately ill-defined margin
+moderately ill defined margin
+irregular margin
+angular margin
+jagged margin
+angulated margin
+spiculated margin
+stellate margin
+indistinct margin
+ill-defined
+smudgy margin
+ill-defined margin
+poorly defined margin
+poorly-defined margin
+lobulated margin
+microlobulated margin
+microundulated margin
+obscured margin
+smooth margin
+liver hypertrophic pseudomass
+hypertrophic pseudomass (liver)
+capsule appearance (liver)
+definite benign entities (liver)
+pseudocapsule (liver)
+pseudocapsule
+hepatic fat deposition
+hepatic fat sparing
+liver score designation
+designation
+cirrhosis-associated nodules
+CAN
+undistorted vessels
+internal nodules
+vascular anomaly (liver)
+vascular anomaly
+confluent fibrosis (liver)
+major liver features
+major features (liver)
+ancillary features (liver)
+ancillary liver features
+non-HCC liver malignancy
+non-HCC malignancy (liver)
+other malignancy (liver)
+other liver malignancy
+true tumor capsule
+periosteal cortical thinning
+endosteal cortical thinning
+full thickness cortical thinning
+cortical erosion absent
+non-specific destruction pattern
+non-specific destruction
+moth-eaten pattern
+moth-eaten
+motheaten bone destruction
+motheaten bone
+permeative destruction pattern
+permeative destruction
+permeative
+geographic destruction pattern
+geographic
+geographic destruction
+punched out erosions
+\
+circumferential enhancement
+circumferential
+nodular pattern
+spatial enhancement pattern
+spatial pattern of enhancement
+mixed enhancement pattern
+mixed pattern
+hypoenhancement
+hypo-enhancing
+hypoenhancing
+hypo-enhancement
+isoenhancing
+iso-enhancement
+homogeneous retention
+capsule appearance
+portal venous/delayed phase peripheral rim enhancement
+increasing enhancement
+thoracic imaging enhancement
+enhancing
+nonenhancing
+non-enhancing
+non-enhancement
+temporal enhancement pattern
+temporal pattern of enhancement
+crazy-paving pattern
+skin invasion
+pre-contrast high ductal signal
+pectoralis muscle invasion
+pseudocavity
+internal enhancement pattern
+chest wall invasion
+mass enhancement pattern
+lesion enhancement pattern
+hematoma/blood signal
+hematoma signal
+hematoma or blood signal
+blood signal
+background breast parenchymal enhancement pattern
+central scar
+restricted diffusion
+nodule-in-nodule
+nodule-in-nodule architecture
+hyperenhancement
+hyperenhancing
+hyper-enhancement
+hyper-enhancing
+reticulonodular pattern
+asymmetric enhancement
+asymmetrical enhancement
+target enhancement
+mottled enhancement
+mosaic architecture
+mosaic attenuation pattern
+mosaic enhancement
+mosaic oligemia
+symmetric enhancement
+enhancement uniformity
+uniformity of enhancement
+reticular pattern
+reticular enhancement
+heterogeneous enhancement
+homogeneous enhancement
+right esophageal stripe
+left esophageal stripe
+retrosternal stripe
+posterior tracheal stripe
+tracheoesophageal stripe
+right inferior esophagopleural stripe
+left inferior esophagopleural stripe
+posterior junction line
+peripheral retention
+delayed phase hypoenhancement
+delayed phase hypoenhancing
+portal venous phase hypoenhancement
+portal venous phase hypo-enhancement
+arterial phase hyperenhancement
+arterial phase hypoenhancement
+arterial phase hypo-enhancement
+arterial phase isoenhancement
+arterial phase iso-enhancement
+centripetal fill-in
+fade
+washout appearance
+corona enhancement
+parallels blood pool enhancement
+nodule-like arterial phase hyperenhancement
+nodule-like arterial phase hyper-enhancement
+homogeneous fade
+homogeneous washout
+clumped enhancement
+dendritic enhancement
+homogeneous internal enhancement
+heterogeneous internal enhancement
+stippled enhancement
+punctate enhancement
+thin septae
+thick septae
+dark internal septation
+nonenhancing internal septation
+enhancing internal septation
+homogeneous mass enhancement
+heterogeneous mass enhancement
+rim enhancement pattern
+central enhancement
+peripheral discontinuous nodular enhancement
+irregular rim
+rim enhancement
+nonuniform rim
+peripheral continuous rim enhancement
+incomplete rim
+thick rim
+absent rim
+no rim
+missing rim
+thin rim
+enhancing central scar
+nonenhancing central scar
+persistent homogeneous hyperenhancement
+persistent homogeneous hyper-enhancemen
+sustained homogeneous hyper-enhancement

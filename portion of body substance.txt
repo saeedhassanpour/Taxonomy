@@ -1,0 +1,86 @@
+portion of body substance
+body substance
+portion of excreted substance
+portion of solid body substance
+portion of gaseous body substance
+gas
+portion of body fluid
+body fluid
+bodily fluid
+feces
+ingested food
+fat
+meconium
+bolus of ingested food
+food bolus
+portion of chyme
+chyme
+flatus
+flatulence
+portion of gas in anatomical space
+alimentary air
+fluid
+portion of body fluid suspension
+gastric acid
+portion of body fluid solution
+transudate
+vitreous humor
+portion of esophageal secretion
+esophageal secretion
+portion of pancreatic juice
+pancreatic juice
+portion of serous fluid
+serous fluid
+portion of colloidal body substance
+pus
+portion of cerebrospinal fluid
+cerebrospinal fluid
+chyle
+sebum
+portion of follicular fluid
+liquor folliculi
+follicular fluid
+portion of intestinal secretion
+intestinal secretion
+aqueous humor
+mucus
+pancreatic secretion
+blood
+peritoneal fluid
+synovial fluid
+portion of vitreous humor
+hyaloid canal
+Cloquet canal
+CSF in third ventricle
+portion of cerebrospinal fluid in third ventricle
+CSF in lateral ventricle
+portion of cerebrospinal fluid in lateral ventricle
+whole portion of cerebrospinal fluid
+whole portion of CSF
+whole CSF
+CSF in subarachnoid space of spinal cord
+portion of cerebrospinal fluid in subarachnoid space of spinal cord
+CSF in right side of medulla part of fourth ventricle
+portion of cerebrospinal fluid in right side of medulla part of fourth ventricle
+CSF in medulla part of fourth ventricle
+portion of cerebrospinal fluid in medulla part of fourth ventricle
+CSF in subarachnoid space of brain
+portion of cerebrospinal fluid in subarachnoid space of brain
+CSF in left side of metencephalon part of fourth ventricle
+CSF in fourth ventricle
+portion of cerebrospinal fluid in fourth ventricle
+cSF in right side of metencephalon part of fourth ventricle
+CSF in left side of medulla part of fourth ventricle
+portion of cerebrospinal fluid in left side of medulla part of fourth ventricle
+CSF in right side of third ventricle
+CSF in left side of third ventricle
+CSF in left lateral ventricle
+portion of cerebrospinal fluid in left lateral ventricle
+CSF in right lateral ventricle
+portion of cerebrospinal fluid in right lateral ventricle
+sweat
+portion of urine
+urine
+portion of gastric juice
+portion of bile
+bile

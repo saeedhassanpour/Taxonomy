@@ -1,0 +1,1700 @@
+Radlex descriptor
+density descriptor
+imaging technique descriptor
+speed descriptor
+width descriptor
+selective
+change descriptor
+investigational
+margin characteristic
+surgery descriptor
+pathophysiologic process descriptor
+status descriptor
+workflow term
+quantity descriptor
+amount
+amount modifier
+anatomically-related descriptor
+physiological condition descriptor
+motion descriptor
+morphologic descriptor
+shape
+risk level descriptor
+imaging procedure descriptor
+generalized descriptor
+imaging observation descriptor
+flow direction descriptor
+stage of healing descriptor
+thickness descriptor
+normality descriptor
+normalness
+color descriptor
+uniformity descriptor
+patient descriptor
+temporal descriptor
+time modifier
+composition descriptor
+certainty descriptor
+confidence
+uncertainty
+phase descriptor
+location descriptor
+quality descriptor
+aggressiveness descriptor
+orientation descriptor
+orientation
+size descriptor
+function descriptor
+modality descriptor
+disease origin descriptor
+enumeration term
+homogeneously dense
+homogenously dense
+homogeneous density
+iso- to slightly hypodense
+iso to slightly hypodense
+ossific
+hyperdense
+non-sclerotic
+iso- to slightly hyperdense
+iso to slightly hyperdense
+hypodense
+equal density
+isodense
+equal-density
+low density
+low-density
+extremely dense
+heterogeneously dense
+heterogenously dense
+heterogeneous density
+chondroid
+sclerotic
+high density
+high-density
+mixed sclerotic and non-sclerotic
+lytic
+lucent
+thin sclerotic
+thick sclerotic
+mixed lytic and sclerotic
+extended
+spot compression
+spot
+direct coronal
+M-mode
+m mode
+roll medial
+roll med
+cleavage
+cleav
+modulus
+mod
+secretin
+secr
+orthogonal
+orthol
+axillary tail
+axillary tail of breast
+ax tail
+roll lateral
+roll lat
+magnification
+mag
+nipple markers
+nip mkr
+thin section
+slow
+rapid
+fast
+narrow
+wide
+threshold growth (liver mass)
+diameter reduction
+reduced diameter
+reduction in diameter
+perfusion alteration
+disappearance
+disappeared
+decreased in height
+diameter increase
+increase in diameter
+treatment technique
+surgical approach
+radical
+laser treatment
+laser
+transcatheter
+transperineal
+retropubic
+modified radical
+laparoscopic
+trans-vaginal
+transabdominal
+transcutaneous
+transurethral
+cardiomyopathy descriptor
+varices descriptor
+arthritis descriptor
+renal ectopia descriptor
+mass descriptor
+bone pathophysiologic process descriptor
+hormonal pathophysiologic process descriptor
+effusion descriptor
+head pathophsiologic process observation descriptor
+aortic dissection descriptor
+infiltrative
+restrictive
+congestive
+hypertrophic
+ischemic
+uphill
+downhill
+periarticular
+arthritis serology
+amount of joint involvement
+seropositive
+seronegative
+monoarticular
+polyarticular
+pauciarticular
+fused
+unfused
+crossed
+uncrossed
+intraparenchymal
+exophytic
+bone forming characteristic
+osteolytic
+osteosclerotic
+feminizing
+virilizing
+androgen producing
+androgen-producing
+exudate
+chylous
+watershed
+territorial
+transependymal
+semilobar
+gyriform
+alobar
+pachymeningeal
+suprasellar
+hemispheric
+leptomeningeal
+Stanford type A
+type A (Stanford)
+Stanford type B
+type B (Stanford)
+DeBakey type III
+type III (DeBakey)
+DeBakey type I
+type I (DeBakey)
+DeBakey type II
+type II (DeBakey)
+major
+mild
+global
+minor
+advanced
+diameter stability
+stable diameter
+asymptomatic
+marked
+unchanged
+no change
+extensive
+incomplete
+mature
+limited
+unstable
+complete
+total
+completed
+fully
+progressive
+partial
+subtotal
+partially
+aborted
+callback
+call-back
+age appropriate
+age-appropriate
+symptomatic
+corrected
+insignificant
+moderate
+severe
+worsening
+decreased
+decreasing
+stable
+increased
+increasing
+ChangedProtocol
+protocol changed
+changed protocol
+ClinHx
+clinical history retrieved
+ClinFollow
+clinical followup
+AutomatedProcessingComplete
+automated processing complete
+AudioTransmit
+audio transmitted
+delay code
+BaseImagesComplete
+base images complete
+AutomatedProcessingStart
+automated processing start
+BillRejection
+bill rejected
+bill rejection
+Billed
+ChangedCPTOrderedProcedure
+changed CPT ordered procedure
+CPT ordered procedure changed
+PtChanged
+patient changed into exam clothes
+Changed
+FirstImage
+Procedure Start
+ProcedureStart
+first image begun
+EarlyExamTermination
+early termination of examination
+early exam termination
+ContrastComplication
+contrast complication
+Tracerinject
+Tracer injected
+Tracer inject
+PatientSurvey
+Patient Survey
+AttemptedCritNotify
+critical event notify begun
+TracerOrder
+Tracer Order
+ArchiveCommit
+archive commit
+committed to archive
+Alert
+Images ready alert
+TransportOrdered
+transport ordered
+create Teaching File
+TeachingFile
+PtAccept
+patient accepts
+talk to patient
+Talk
+Transferred
+Transfer
+protocol specified
+Protocol
+Transcribed
+DataAcquired
+Acquired
+VitalsMonitor
+vitals obtained
+Vitals Monitor
+Pt Arrived
+patient arrived
+Arrived
+patient arrival time
+TriageRpt
+ClinicianOpinion
+clinician opinion
+triage report
+techdosedetails
+dose details recorded
+tech dose details
+AdmitPtRecovery
+AdmitPtnRecovery
+patient admitted to recover area
+admit patient to recovery
+Apptconfirmation
+Appt confirmation
+AdmitIRPtRounds
+AdmitIRPtnRounds
+admitted IR patient rounds
+IR patient rounds
+StatOrder
+Enterprise ID Remap
+Split acquisition
+Split
+Precert
+precertified
+precertification
+Sendback
+exam sendback
+PtNotify
+patient notify
+PatientOut
+Patient Out
+image review
+Review
+PatientMerge
+Patient Merge
+ResultsViewed
+Results Viewed
+RoomAssigned
+Room Assigned
+OrderCreated
+Order
+order created
+RNSafetyCheck
+RN Safety Check
+ApptTime
+appointment time
+appt time
+RoomCleaned
+Room Cleaned
+TimeScheduled
+time scheduled
+RoomAvailable
+Room Available
+SedationEval
+Sedation Evaluation
+Sedation Evaluated
+MobileLvDept
+mobile leave department
+SampleSent
+Sample Sent
+MobileArrivePt
+mobile arrive at patient
+Exam Markup
+Markup
+LaunchApplicationForInterpretation
+Launch Application For Interpretation
+Exam Opened
+Opened
+NursePrep
+nursing prep
+Nurse Prep
+OrderReceived
+Order Received
+OralContrastAdmin
+Oral Contrast Administered
+ResultsAcknowledged
+Results Acknowledged
+PatientIn
+Patient In
+OrderSupplies
+Order Supplies
+RespondConsult
+respond to consult
+ReqLabsReported
+Lab tests Reported
+Required Lab tests Reported
+Required Labs Reported
+IVInjectionContrastEnded
+IV injection contrast ended
+RemapDICOMID
+Remap DICOM ID
+IRTechSterilePrep
+IR Tech Sterile Prep
+PtSentToNursingCheck
+Pt Sent To Nursing Check
+RemapProcedureName
+Remap Procedure Name
+RemapHL7ID
+Remap HL7ID
+IVContrastStart
+IV Contrast Start
+ReqConsult
+consult requested
+request consult
+Final report approved
+Reported
+ReqLabsReviewed
+Required Lab tests Reviewed
+Required Labs Reviewed
+Lab tests Reviewed
+ReqLabsOrdered
+lab tests ordered
+Required Lab tests Ordered
+Required Labs Ordered
+IRPostProcMonitoring
+IR post-procedure monitoring
+IRProcedureStart
+IR Procedure Start
+IRProcedureComplete
+IR Procedure Complete
+IRRoomReady
+IR Room Ready
+IRPtRecovery
+IRPtnRecovery
+IR patient recovery
+IRTechRoomPrep
+IR Tech Room Prep
+IRRoomTurnover
+IR Room Turnover
+PtInfoFormGivenToPatient
+Pt Info Form Given To Patient
+Info Form Given To Patient
+ProcPause
+procedure pause
+PtSentToChangeAttire
+Pt Sent To Change Attire
+IRMaterialUsage
+IR material usage
+PrelimDic
+Preliminary Dictation
+IRImageSelect
+IR image selection
+PrelimTrx
+preliminary transcription
+preliminary report transcribed
+IRPatientAdmitHospital
+IR patient admitted to hospital
+PrelimPublish
+preliminary report published
+IRNursePrep
+IR nursing prep
+images prepared
+Prepared
+PrelimView
+prelminary report viewed
+ProcedureReady
+procedure ready
+procedure-ready
+PreProcCoord
+pre-procedure coordination
+ImagesStoredInArchive
+Images Stored In Archive
+HumanProcStart
+human processing started
+InformedConsent
+Informed Consent
+ImportImage
+Import Image
+IRPre-Procedure
+IR Pre-Procedure
+InterpStarted
+Interpretation Started
+PrefetchCompleted
+prefetch completed
+PrecertRequest
+Precertification Request
+PreImageConsult
+Pre-Image Consult
+pre-imaging consult
+PrefetchIssued
+Prefetch Issued
+GeneralAnesthesiaEnded
+general anesthesia ended
+FinalPublish
+final report published
+PeerReviewCompleted
+Peer Review Completed
+HoldSame
+hold for same physician
+PatientReady
+Patient Ready
+GeneralAnesthesiaStarted
+general anesthesia started
+PersFollow
+personal follow-up
+HumanProcComplete
+human processing complete
+PeerReviewStarted
+Peer Review Started
+PostProcCoord
+post-procedure confirmation
+PersonalNotification
+Personal Notification
+DischargeTime
+discharge time
+Discharge
+ExamCancelled
+exam cancelled
+EducationSearch
+Education
+resource timestamp
+ExamExported
+exam exported
+Exported
+ExamReassigned
+exam reassigned
+DelayedAddl
+additional delayed images
+CritNotification
+critical finding notification
+report index
+DeskInfo
+desk info returned
+DeleteExam
+exam record deleted
+Dictated
+DictatationStartTime
+dictation start time
+CorrectedDic
+corrected report dictated
+ReportCorrected
+Corrected
+CorrelationReview
+external results returned
+correlation review
+CorrectedTrx
+corrected report transcribed
+CloseApplicationForInterpretation
+close applicaton for interpretation
+applicaton closed for interpretation
+ClinicalImageView
+clinical images viewed
+Coded
+CodeCorrection
+code correction
+ConfirmConsent
+confirm consent
+Consent
+ImagingComplete
+Complete
+Consult
+WaitingForConsent
+Waiting For Consent
+WaitingForTech
+Waiting For Tech
+WaitingForTransport
+Waiting For Transport
+PatientBumpedForCriticalPatient
+Patient Bumped For Critical Patient
+WaitingForNurse
+Waiting For Nurse
+WaitingForModality
+Waiting For Modality
+PatientNeedsScreening
+Patient Needs Screening
+Artifact or ImproperPositioning
+Artifact or Improper Positioning
+WaitingForRoom
+Waiting For Room
+EquipmentFalureNOS
+Equipment Falure NOS
+PatientDidNotArrive
+Patient Did Not Arrive
+SystemDown
+System Down
+WaitingForReferringService
+Waiting For Referring Service
+WaitingForRadiologists
+Waiting For Radiologists
+ResourceNotAvailable
+Resource Not Available
+NoChecklist
+No Checklist
+PatientNotReady
+Patient Not Ready
+PatientRequiresSedation
+Patient Requires Sedation
+PatientNotScheduledorExpected
+Patient Not Scheduled or Expected
+WaitingforAnesthesiaCoverage
+Waiting for Anesthesia Coverage
+PrepWorkNotComplete
+Prep Work Not Complete
+RoomOpened
+Room Opened
+RISDown
+RIS Down
+RoomClosed
+Room Closed
+PACSDown
+PACS Down
+RISUp
+RIS Up
+EMRDown
+EMR Down
+PACSUp
+PACS Up
+ModalityDown
+Modality Down
+ModalityScheduledUnavailable
+Modality Scheduled Unavailable
+EMRUp
+EMR Up
+ModalityScheduledAvailable
+Modality Scheduled Available
+RoomScheduledUnavailable
+Room Scheduled Unavailable
+RoomScheduledAvailable
+Room Scheduled Available
+ModalityUp
+Modality Up
+AcquisitionDuration
+Acquisition Duration
+RoomDuration
+Room Duration
+ModalityToPACSTransferTime
+Modality To PACS Transfer Time
+TimeFromStatOrderToAcquistion
+Time From Stat Order To Acquistion
+JCCritnotification
+JC Crit notification
+ReportTurnAroundTime
+report turnaround time
+ModalityUtilization
+Modality Utilization
+RoomUtilization
+Room Utilization
+PatientWait
+Patient Wait
+Patient Wait time
+minimal
+both
+none
+absent
+plural
+present
+all
+sufficient
+elevated amount
+elevated
+inadequate
+single
+few
+several
+insufficient
+too little
+too much
+multiple
+more than 5
+innumerable
+cavoatrial
+perilobar
+suprarenal
+cortical
+perilymphatic
+infrarenal
+bronchovascular
+intracoronal
+circumaortic
+supraclinoid
+supralevator
+supra-levator
+transperitoneal
+trans-peritoneal
+subcapsular (liver)
+subcapsular
+adjacent to gallbladder
+extraperitoneal
+distorts hepatic vein
+abuts portal vein
+head location descriptor
+interstitial
+displaces portal vein
+infiltrates wall into lumen of portal vein
+intertarsal
+retroaortic
+retro-aortic
+ischioanal
+ischio-anal
+basilar
+transglottic
+trans-glottic
+pial
+pedicular
+suprapedicular
+supra-pedicular
+infrapedicular
+infra-pedicular
+intramural
+perivascular
+perihilar
+peri-hilar
+abuts capsule of liver
+bulges capsule of liver
+abuts hepatic vein
+dural
+extramural
+cranial
+parovarian
+para-ovarian
+paraovarian
+with implants
+intraperitoneal
+spinal segment descriptor
+subpleural
+dorsal
+ventral
+paraaortic
+para-aortic
+inferoseptal
+inferioseptal
+transvaginal
+septal
+femoral
+transrectal
+trans-rectal
+intervertebral level descriptor
+myocardium layer descriptor
+gluteal
+ulnar
+pre-aortic
+preaortic
+ectopic
+panacinar
+paracicatricial
+paraseptal
+paraspinal
+subarticular
+extraforaminal
+foraminal
+anteroseptal
+antero-septal
+disc location
+infratentorial
+intraaxial
+extraaxial
+petrous
+subarachnoid
+intracranial
+periventricular
+supratentorial
+epidural
+extracranial
+cavernous
+subcortical
+dural based
+subdural
+thoracic spine descriptor
+cervical spine descriptor
+lumbar spine descriptor
+coccygeal spine descriptor
+sacral spine descriptor
+T11
+T12
+T1
+T10
+T4
+T5
+T2
+T3
+T8
+T9
+T6
+T7
+C2
+C3
+C1
+C6
+C7
+C4
+C5
+C8
+L2
+L3
+L1
+L4
+L5
+coccygeal segment 1
+coccygeal segment 2
+coccygeal segment 3
+S3
+S4
+S1
+S2
+S5
+thoracic intervertebral level
+lumbar intervertebral level
+cervical intervertebral level
+sacral intervertebral level
+T6/T7
+T7/T8
+T4/T5
+T5/T6
+T10/T11
+T11/T12
+T8/T9
+T9/T10
+T1/T2
+T12/L1
+T2/T3
+T3/T4
+L1/L2
+L2/L3
+L5/S1
+L3/L4
+L4/L5
+C3/C4
+C4/C5
+C1/C2
+C2/C3
+C7/T1
+C5/C6
+C6/C7
+S1/S2
+S2/S3
+S3/S4
+S4/S5
+mid myocardium
+disc containment
+extraligamentous
+submembranous
+transligamentous
+subcapsular (disc)
+subligamentous
+intact
+hypoinflated
+degenerated
+hypokinetic
+impeded
+fractured
+hypogastric
+mobile
+in transit
+dyskinetic
+sliding
+pulsatile
+elongated
+immobile
+cavitated
+serpentine
+serpiginous
+blunted
+reticular
+retractile
+punctate
+atrophic
+reconstructed
+bilobed
+sclerosing
+septated
+septate
+ruptured
+scarred
+flat
+convex
+amorphous
+concave
+aphthous
+aerated
+flattened
+unilocular
+tethered
+thickened
+sharp
+fatty
+smooth
+fibrous
+truncated
+ulcerated
+thinned
+tortuous
+conglomerate
+consolidated
+bulky
+compressed
+arcuate
+emphysematous
+eroded
+shallow
+bowed
+discoid
+distorted
+short
+globular
+unfolded
+polyp morphology characteristic
+multilobulated
+gently lobulated
+macrolobulated
+angular
+angulated
+jagged
+thick interrupted
+thin interrupted
+lamellated or onion skin
+continuous
+rounded
+long
+tubular
+round
+spherical
+circular
+ball-shaped
+mixed
+rectangular
+multilocular
+irregular
+lobular
+lobulated
+lipid
+nodular
+symmetrical
+symmetric
+asymmetrical
+polypoid
+pedunculated
+nonpatent
+not patent
+non-patent
+plateau
+hydrated
+polygonal
+hyperinflated
+fungating
+fusiform
+fine pleomorphic
+invaginated
+varicoid
+oval
+ovoid
+egg-shaped
+elliptical
+lacunar
+fine linear
+branching
+impinged
+indented
+coarse heterogeneous
+course heterogenous
+coarse heterogenous
+serrated
+spoke-wheel
+eggshell
+large rod-like
+straightened
+coarse
+popcorn
+popcorn-like
+wedge-shaped
+beaded
+lucent-centered
+curved
+occluded
+patent
+microlobulated
+microundulated
+narrowed
+obstructed
+plate-like
+pleomorphic
+puckered
+spiculated
+stellate
+patulous
+plaquelike
+adenomatous
+hyperplastic
+villous
+sessile
+on a stalk
+thick continuous
+thin continuous
+micronodular
+macronodular
+high-risk
+high risk
+average-risk
+average risk
+guidance descriptor
+patient state
+follow-through
+follow through
+imaging acquisition rate
+radiation dose
+orderable priority
+on call
+orderable technique
+physician requirement
+area of interest
+patient orientation
+medication administration attribute
+body region covered
+imaging pass
+with delayed imaging
+priority
+monitored
+ultrasound-guided
+US-guided
+under stress
+during stress
+during symptoms
+at rest
+stat blue
+stat
+urgent
+routine
+triphase
+triphas
+triphasic
+multiphase
+multiphasic
+multi-phasic
+multi-phase
+single phase
+single-phasic
+single-phase
+limited evaluation
+interoperative
+interop
+complete evaluation
+portable
+port
+bedside
+dynamic
+bucky
+runoff
+requiring a physician
+not requiring a physician
+feet first orientation
+head first orientation
+route of administration
+intrasynovial
+intratumor
+intratympanic
+intrauterine
+intravascular
+intrathoracic
+endothoracic
+intratubular
+intratendinous
+intratesticular
+vaginal
+irrigation
+via existing access
+laryngeal
+nasal
+cut down
+open surgical
+intraventricular
+intravesical
+intravitreal
+iontophoresis
+intravenous
+IV
+intraduodenal
+intradural
+intraepidermal
+intralesional
+intraluminal
+intralymphatic
+intramedullary
+endosinusial
+intraesophageal
+intragastric
+endotracheal
+enteral
+intragingival
+intraileal
+dental
+electroosmosis
+electro-osmosis
+endocervical
+intracervical
+buccal
+conjunctival
+cutaneous
+intrathecal
+intrameningeal
+intramuscular
+intraprostatic
+intrapulmonary
+intrasinal
+intraspinal
+intraovarian
+intrapericardial
+intraperitoneal route
+intrapleural
+intraocular
+intra-articular
+interstitial route
+intra-abdominal
+intra-amniotic
+intra-arterial
+intrabursal
+intracardiac
+intracartilaginous
+intracaudal
+transtracheal
+transtympanic
+intrabiliary
+ureteral
+urethral
+intrabronchial
+topical
+transdermal
+transmucosal
+transplacental
+sublingual
+submucosal
+intracavernous
+intracavitary
+intracerebral
+intracisternal
+intracorporus cavernosum
+intradermal
+intradiscal
+intraductal
+intracorneal
+intracoronal, dental
+auricular
+otic
+intracoronary
+injection
+laparascopic
+laprascopic
+transcutaneous needle puncture
+peridural
+perineural
+oropharyngeal
+parenteral
+percutaneous
+endoscopic
+periarticular route
+nasogastric
+occlusive dressing technique
+ophthalmic
+oral
+extra-amniotic
+extracorporeal
+hemodialysis
+infiltration route
+infiltration
+soft tissue administration
+subarachnoid route
+subconjunctival
+subcutaneous
+subdermal
+epidural route
+rectal
+respiratory
+inhalation
+retrobulbar
+periodontal
+intravenous bolus
+intravenous drip
+manual injection
+direct injection
+transvenous
+transhepatic
+transpleural
+transarterial
+first pass
+low
+moderately high
+high
+medium
+intermediate
+distribution pattern
+modality-related characteristic
+radiopacity
+pattern descriptor
+visibility descriptor
+patchy
+scattered
+focal
+multifocal
+segmental
+grouped
+loosely grouped
+clustered
+linear
+ductal
+diffuse
+regional
+random
+coalescent
+echogenicity characteristic
+attenuation characteristic
+signal characteristic
+heterogenously echogenic
+hyperechoic
+echogenic
+homogeneous increased echogenicity
+bright
+hyperechogenic
+hypoechoic
+homogeneous low level echoes
+dark
+hypoechogenic
+isoechoic
+isoechogenic
+anechoic
+anechogenic
+complex echogenicity
+mixed echogenicity
+isoattenuating
+iso-attenuation
+posterior acoustic feature
+high attenuation
+low attenuation
+posterior acoustic enhancement
+increased through-transmission
+posterior acoustic shadowing
+posterior acoustic attenuating
+shadowing
+no posterior acoustic features
+combined posterior acoustic pattern
+combined pattern
+intermediate signal intensity
+high signal intensity
+low signal intensity
+isointense
+iso-intensity
+hyperintense
+hyperintensity
+hypointense
+hypo-intense
+hypointensity
+diffusion-weighted hyperintensity
+DW hyperintensity
+T2 hyperintensity
+T2 hyper-intensity
+mild-moderate T2 hyperintensity
+mild-moderate T2 hyper-intensity
+mild-to-moderate T2 hyperintensity
+homogeneous marked T2 hyperintensity
+homogeneous marked T2 or T2* hypointensity
+radiopaque
+ivory-like
+cloud-like
+rings and arcs
+non-septated
+nonseptated
+flocculent
+circumscribed
+well-circumscribed
+sharply-defined
+well-defined
+prominent
+not seen
+not observed
+indistinct
+poorly-defined
+poorly defined
+obscured
+antegrade
+retrograde
+healing
+healed
+ununited
+non-union
+thin
+thick
+normal
+unremarkable
+abnormal
+yellow
+green
+black
+white
+brown
+heterogeneous
+heterogenous
+inhomogeneous
+homogeneous
+homogenous
+human life stage descriptor
+fetal age
+donor
+gender
+neonatal
+neo
+premature
+pediatric
+peds
+pregnant
+prg
+geriatric
+postmenopausal
+post-menopausal
+full-term
+male
+female
+previous
+less than 1 hour
+<1 hr
+less than 1 hr
+<1 hour
+residual
+onset descriptor
+repetitive
+persistent
+intraoperative
+intra-operative
+chronic
+greater than 14 weeks
+more than 14 weeks
+>14 weeks
+permanent
+less than 14 weeks
+<14 weeks
+acute
+greater than 1 hour
+more than 1 hour
+>1 hour
+>1 hr
+more than 1 hr
+after
+post
+before
+pre
+temporary
+fixed
+reversible
+new
+delayed
+old
+late onset
+early onset
+overuse
+hyperacute
+post-fatty-meal
+post fatty meal
+post-procedure
+after procedure
+post-vertebroplasty
+postoperative
+post-operative
+post-op
+post op
+post-transplant
+post transplant
+preoperative
+pre-operative
+pre-op
+pre op
+cavitary
+solidness descriptor
+nonbilious
+non-bilious
+not bilious
+ossified
+fat-containing
+fat containing
+radiolucent
+bilious
+scattered fibroglandular densities
+bloody
+mucinous
+calcified
+noncalcified
+non-calcified
+not calcified
+liquefied
+serous
+layered
+nuclear
+dessicated
+non-caseating
+lesional iron sparing
+lesional iron depletion
+lesional iron depleted
+gaseous
+predominantly fatty
+proteinaceous
+hemorrhagic
+osseous
+non-hemorrhagic
+bland
+cartilaginous
+collagenous
+caseating
+complex
+complicated
+cystic
+liquid
+lipid containing
+lesional fat sparing
+gas containing
+gas-containing
+serosanguinous
+serosanguineous
+simple
+uncomplicated
+turbidity descriptor
+metallic
+mostly solid
+partially solid
+semi-solid
+completely solid
+non-solid
+solid
+intralesional fat
+intra-lesional fat
+lipid rich
+lipid-rich
+lipid poor
+lipid-poor
+air containing
+air-containing
+purulent
+clear
+cloudy
+turbid
+not applicable
+no
+yes
+almost certainly not
+almost certainly
+definitely not
+equivocal
+indeterminate
+unable to determine
+certainty of HCC
+uncertain
+definitely
+definite
+certain
+probably
+probable
+suggestive
+possibly
+may be
+maybe
+possible
+known
+suspected
+probably not
+unknown
+indeterminate or low suspicion for HCC
+histologically confirmed HCC
+high suspicion for HCC
+centrilobular
+lower
+upper
+anterolateral
+antero-lateral
+midline
+inferior
+shifted
+median
+proximal
+inferolateral
+infero-lateral
+central
+adjacent
+peripheral
+lateral
+displaced
+dislocated
+laterality
+side
+inverted
+retracted
+superior
+elevated position
+medial
+superolateral
+disrupted
+mid-level
+superficial
+depressed position
+depressed
+deep position
+deep
+anterior
+posterior
+detached
+deviated
+center
+prolapsed
+contralateral
+contra-lateral
+subsegmental
+caudal
+apical
+distal
+right
+right position
+left
+left position
+unilateral
+bilateral
+fair
+poor
+satisfactory
+adequate
+unsatisfactory
+nonevaluable
+not evaluable
+diagnostic
+improved
+good
+excellent
+suboptimal
+intermediately aggressive
+noninvasive
+expansile
+invasive
+non-aggressive
+malignant
+benign
+higher probability of malignancy
+suspicious
+typically benign
+non-expansile
+nonexpansile
+non-destructive
+aggressive
+indolent
+high grade
+low grade
+tilted
+retroverted
+retroversion
+parallel
+para
+anteverted
+concentric
+eccentric
+descending
+not parallel
+non-parallel
+radial
+perpendicular
+coronal
+posterolateral
+postero-lateral
+contiguous
+discontiguous
+sagittal
+transverse
+ascending
+longitudinal
+retroflexed
+horizontal
+posteromedial
+postero-medial
+vertical
+congruent
+enlarged
+shrunken
+engorged
+subcentimeter
+microscopic
+collapsed
+expanded
+contracted
+macroscopic
+constricted
+ectatic
+dilated
+distended
+symmetric size
+asymmetric size
+diminished
+smaller
+giant
+caliber
+near-atomic
+near atomic
+overinflated
+over-inflated
+too small to characterize
+small
+deflated
+inflated
+large
+widened
+deployed
+non-occlusive
+surrogate
+metabolism descriptor
+ictal
+occlusive
+hypermetabolic
+time-of-flight
+TOF
+time of flght
+min IP
+metabolite map
+metab map
+localizer
+loc
+loclz
+max IP
+reconstruction
+recon
+attenuation
+atten
+fluid-attenuated
+fluid atten
+fluid attenuated
+low dose
+image addition
+img add
+high resolution
+acquisition
+acq
+flow-encoded
+flow enc
+flow encoded
+angio time
+fluoroscopy time
+fluoro time
+dual phase
+ultra-high resolution
+ultra high resolution
+intervention
+pre-contrast
+pre contrast
+pre con
+short tau inversion recovery
+STIR
+weight-bearing
+weight bearing
+proton-density
+proton density
+cine loop
+cine
+video loop
+triple phase
+real-time
+realtime
+phase-subtract
+phase subtract
+phase sub
+post-contrast
+post contrast
+post con
+non para
+non parallel
+non-para
+fluoroscopic
+multiecho
+multi-echo
+Doppler
+functional
+congenital
+dystrophic
+idiopathic
+syndromic
+secretory
+non-syndromic
+iatrogenic
+spontaneous
+genetic
+acquired
+hereditary
+sporadic
+developmental
+3rd
+third
+9th
+ninth
+8th
+eighth
+5th
+fifth
+11th
+eleventh
+4th
+fourth
+10th
+tenth
+7th
+seventh
+2nd
+second
+6th
+sixth
+1st
+first
+12th
+twelfth

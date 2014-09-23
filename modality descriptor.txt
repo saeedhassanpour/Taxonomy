@@ -1,0 +1,64 @@
+modality descriptor
+time-of-flight
+TOF
+time of flght
+min IP
+metabolite map
+metab map
+localizer
+loc
+loclz
+max IP
+reconstruction
+recon
+attenuation
+atten
+fluid-attenuated
+fluid atten
+fluid attenuated
+low dose
+image addition
+img add
+high resolution
+acquisition
+acq
+flow-encoded
+flow enc
+flow encoded
+angio time
+fluoroscopy time
+fluoro time
+dual phase
+ultra-high resolution
+ultra high resolution
+intervention
+pre-contrast
+pre contrast
+pre con
+short tau inversion recovery
+STIR
+weight-bearing
+weight bearing
+proton-density
+proton density
+cine loop
+cine
+video loop
+triple phase
+real-time
+realtime
+phase-subtract
+phase subtract
+phase sub
+post-contrast
+post contrast
+post con
+non-parallel
+non para
+non parallel
+non-para
+fluoroscopic
+multiecho
+multi-echo
+Doppler
+functional
