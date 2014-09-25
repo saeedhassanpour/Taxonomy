@@ -30,13 +30,19 @@ public class ParseHierarchy {
 		return s.split("\"")[1].trim();
 	}
 	
-	public static void printNames(OWLNamedIndividual i, List<OWLDataProperty> dVStrings, OWLOntology o, SimpleRenderer renderer, Set<String> dictionary)
+	public static String getID(OWLNamedIndividual i)
+	{
+		return i.getIRI().toString().split("#")[1].trim();
+	}
+	
+	public static void getNames(OWLNamedIndividual i, List<OWLDataProperty> dVStrings, OWLOntology o, SimpleRenderer renderer, Set<String> dictionary)
 	{
 		for(OWLDataProperty dVString : dVStrings)
 		{
 			for (OWLLiteral lit : EntitySearcher.getDataPropertyValues(i, dVString, o)) 
 			{
-				dictionary.add(normalize(renderer.render(lit)));
+				//System.out.println(normalize(renderer.render(lit))+","+ getID(i));
+				dictionary.add(normalize(renderer.render(lit))+","+ getID(i));
 			}
 		}
 	}
@@ -72,11 +78,6 @@ public class ParseHierarchy {
 	    
 		String[] dvs = {
 				"http://www.owl-ontologies.com/RADLEX.owl#Preferred_name",
-				"http://www.owl-ontologies.com/RADLEX.owl#Synonym",
-				"http://www.owl-ontologies.com/RADLEX.owl#Misspelling_of_term",
-				"http://www.owl-ontologies.com/RADLEX.owl#UMLS_Term",
-				"http://www.owl-ontologies.com/RADLEX.owl#CMA_Label",
-				"http://www.owl-ontologies.com/RADLEX.owl#SNOMED_Term",
 				};
 		
 	    List<OWLDataProperty> dVStrings = new ArrayList<OWLDataProperty>();
@@ -87,38 +88,46 @@ public class ParseHierarchy {
 	    	dVStrings.add(df.getOWLDataProperty(IRI.create(dv)));
 	    }
 	    
-		//pathophysiologic finding, benign finding, portion of body substance, object, imaging observation
-		//Radlex descriptor
-		//anatomical structure, immaterial anatomical entity, anatomical set
+		//Observation: "pathophysiologic finding", "benign finding", "portion of body substance", "object", "imaging observation"
+		//Modifier: "Radlex descriptor"
+		//Anatomy: "anatomical structure", "immaterial anatomical entity", "anatomical set"
+	    //Uncertainty: "certainty descriptor"
+	    
 	    //size descriptor
-	    //certainty descriptor
 	    //orientation descriptor, modality descriptor
 	    //imaging modality
-		String root = "imaging modality";
+	    
+	    String concept = "Uncertainty";
+		String[] roots = {"certainty descriptor"};
+		
+		for (String root : roots) {
+			for (OWLNamedIndividual i : o.getIndividualsInSignature()) {
+				for (OWLLiteral lit : EntitySearcher.getDataPropertyValues(i,
+						prefNameString, o)) {
 
-		for (OWLNamedIndividual i : o.getIndividualsInSignature()) {
-			for (OWLLiteral lit : EntitySearcher.getDataPropertyValues(i, prefNameString, o)) {
+					if (normalize(renderer.render(lit)).equals(root)) {
+						getNames(i, dVStrings, o, renderer, dictionary);
 
-				if (normalize(renderer.render(lit)).equals(root)) 
-				{
-					printNames(i, dVStrings, o, renderer, dictionary);
+						OWLClass cls = df.getOWLClass(i.getIRI());
+						NodeSet<OWLClass> clss = reasoner.getSubClasses(cls,
+								false);
 
-					OWLClass cls = df.getOWLClass(i.getIRI());
-					NodeSet<OWLClass> clss = reasoner.getSubClasses(cls, false);
-
-					for (Node<OWLClass> subcls : clss) 
-					{
-						OWLNamedIndividual si = df.getOWLNamedIndividual(subcls.getRepresentativeElement().getIRI());
-						printNames(si, dVStrings, o, renderer, dictionary);
+						for (Node<OWLClass> subcls : clss) {
+							OWLNamedIndividual si = df
+									.getOWLNamedIndividual(subcls
+											.getRepresentativeElement()
+											.getIRI());
+							getNames(si, dVStrings, o, renderer, dictionary);
+						}
 					}
-				}
 
+				}
 			}
 		}
 
-		PrintWriter pw = new PrintWriter(root + ".txt", "UTF-8");
+		PrintWriter pw = new PrintWriter(concept + ".txt", "UTF-8");
 		for (String e : dictionary) {
-			pw.println(e);
+			pw.println(e+"."+concept);
 		}
 		pw.close();
 	}
