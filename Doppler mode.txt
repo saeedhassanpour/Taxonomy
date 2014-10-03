@@ -1,6 +1,0 @@
-Doppler mode,RID10908.Doppler mode
-color Doppler mode,RID10909.Doppler mode
-spectral Doppler mode,RID10911.Doppler mode
-power Doppler mode,RID10910.Doppler mode
-harmonic ultrasound,RID10913.Doppler mode
-phase-cancellation harmonic ultrasound,RID10914.Doppler mode

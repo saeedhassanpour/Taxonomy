@@ -1,8 +1,0 @@
-benign finding
-non-pathophysiological finding
-non-pathological finding
-non-pathological condition appearing pathological
-pregnancy
-pseudopneumoperitoneum
-twin pregnancy
-additional gestation
