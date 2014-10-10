@@ -52,9 +52,7 @@ public class ParseHierarchy {
 	    OWLReasonerFactory reasonerFactory = new StructuralReasonerFactory();
 		OWLDataFactory df = manager.getOWLDataFactory();
 	    SimpleRenderer renderer = new SimpleRenderer();
-	    // /Users/saeedhp/Dropbox/Stanford/Code/RadLex/src/main/resources/Radlex311.owl
-	    // /Users/saeed/Documents/workspace/Radlex/src/main/resources/Radlex311.owl
-		OWLOntology o = manager.loadOntologyFromOntologyDocument(new File("/Users/saeedhp/Dropbox/Stanford/Code/RadLex/src/main/resources/Radlex311.owl"));
+		OWLOntology o = manager.loadOntologyFromOntologyDocument(new File("src/main/resources/Radlex311.owl"));
 	    OWLDataProperty prefNameString = df.getOWLDataProperty(IRI.create("http://www.owl-ontologies.com/RADLEX.owl#Preferred_name"));
 	    OWLReasoner reasoner = reasonerFactory.createReasoner(o);
 	    

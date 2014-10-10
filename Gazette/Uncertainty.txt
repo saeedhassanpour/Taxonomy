@@ -1,0 +1,73 @@
+Uncertainty certainty descriptor
+Uncertainty CERTAINTY DESCRIPTOR
+Uncertainty Certainty Descriptor
+Uncertainty not applicable
+Uncertainty NOT APPLICABLE
+Uncertainty Not Applicable
+Uncertainty no
+Uncertainty NO
+Uncertainty No
+Uncertainty yes
+Uncertainty YES
+Uncertainty Yes
+Uncertainty almost certainly not
+Uncertainty ALMOST CERTAINLY NOT
+Uncertainty Almost Certainly Not
+Uncertainty almost certainly
+Uncertainty ALMOST CERTAINLY
+Uncertainty Almost Certainly
+Uncertainty definitely not
+Uncertainty DEFINITELY NOT
+Uncertainty Definitely Not
+Uncertainty equivocal
+Uncertainty EQUIVOCAL
+Uncertainty Equivocal
+Uncertainty indeterminate
+Uncertainty INDETERMINATE
+Uncertainty Indeterminate
+Uncertainty certainty of HCC
+Uncertainty certainty of hcc
+Uncertainty CERTAINTY OF HCC
+Uncertainty Certainty Of Hcc
+Uncertainty uncertain
+Uncertainty UNCERTAIN
+Uncertainty Uncertain
+Uncertainty definitely
+Uncertainty DEFINITELY
+Uncertainty Definitely
+Uncertainty definite
+Uncertainty DEFINITE
+Uncertainty Definite
+Uncertainty probably
+Uncertainty PROBABLY
+Uncertainty Probably
+Uncertainty suggestive
+Uncertainty SUGGESTIVE
+Uncertainty Suggestive
+Uncertainty possibly
+Uncertainty POSSIBLY
+Uncertainty Possibly
+Uncertainty known
+Uncertainty KNOWN
+Uncertainty Known
+Uncertainty suspected
+Uncertainty SUSPECTED
+Uncertainty Suspected
+Uncertainty probably not
+Uncertainty PROBABLY NOT
+Uncertainty Probably Not
+Uncertainty unknown
+Uncertainty UNKNOWN
+Uncertainty Unknown
+Uncertainty indeterminate or low suspicion for HCC
+Uncertainty indeterminate or low suspicion for hcc
+Uncertainty INDETERMINATE OR LOW SUSPICION FOR HCC
+Uncertainty Indeterminate Or Low Suspicion For Hcc
+Uncertainty histologically confirmed HCC
+Uncertainty histologically confirmed hcc
+Uncertainty HISTOLOGICALLY CONFIRMED HCC
+Uncertainty Histologically Confirmed Hcc
+Uncertainty high suspicion for HCC
+Uncertainty high suspicion for hcc
+Uncertainty HIGH SUSPICION FOR HCC
+Uncertainty High Suspicion For Hcc
