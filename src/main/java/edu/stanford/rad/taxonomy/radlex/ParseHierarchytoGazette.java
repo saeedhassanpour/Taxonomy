@@ -1,3 +1,5 @@
+package edu.stanford.rad.taxonomy.radlex;
+
 import java.io.File;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -10,7 +12,6 @@ import org.semanticweb.owlapi.model.IRI;
 import org.semanticweb.owlapi.model.OWLClass;
 import org.semanticweb.owlapi.model.OWLDataFactory;
 import org.semanticweb.owlapi.model.OWLDataProperty;
-import org.semanticweb.owlapi.model.OWLIndividual;
 import org.semanticweb.owlapi.model.OWLLiteral;
 import org.semanticweb.owlapi.model.OWLNamedIndividual;
 import org.semanticweb.owlapi.model.OWLOntology;
@@ -23,7 +24,8 @@ import org.semanticweb.owlapi.reasoner.structural.StructuralReasonerFactory;
 import org.semanticweb.owlapi.search.EntitySearcher;
 import org.semanticweb.owlapi.util.SimpleRenderer;
 
-public class ParseHierarchy {
+
+public class ParseHierarchytoGazette {
 
 	public static String normalize(String s)
 	{
@@ -42,7 +44,11 @@ public class ParseHierarchy {
 			for (OWLLiteral lit : EntitySearcher.getDataPropertyValues(i, dVString, o)) 
 			{
 				//System.out.println(normalize(renderer.render(lit))+","+ getID(i));
-				dictionary.add(normalize(renderer.render(lit))+","+ getID(i));
+				String name = normalize(renderer.render(lit));
+				dictionary.add(name);
+				dictionary.add(name.toLowerCase());
+				dictionary.add(name.toUpperCase());
+				dictionary.add(toCamelCase(name));
 			}
 		}
 	}
@@ -60,19 +66,7 @@ public class ParseHierarchy {
 //    	http://www.owl-ontologies.com/RADLEX.owl#Synonym
 //	    http://www.owl-ontologies.com/RADLEX.owl#Misspelling_of_term
 //	    http://www.owl-ontologies.com/RADLEX.owl#UMLS_Term
-//	    http://www.owl-ontologies.com/RADLEX.owl#CMA_Label
 //		http://www.owl-ontologies.com/RADLEX.owl#SNOMED_Term
-	    
-//    	<http://www.owl-ontologies.com/RADLEX.owl#JHU_DTI-81>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Definition>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Talairach>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Non-English_name>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Source>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Freesurfer>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Preferred_Name_for_Obsolete>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#JHU_White-Matter_Tractography_Atlas>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#Comment>
-//    	<http://www.owl-ontologies.com/RADLEX.owl#AAL>
 
 	    
 		String[] dvs = {
@@ -91,13 +85,13 @@ public class ParseHierarchy {
 		//Modifier: "Radlex descriptor"
 		//Anatomy: "anatomical structure", "immaterial anatomical entity", "anatomical set"
 	    //Uncertainty: "certainty descriptor"
+	    //Modality: "imaging modality"
 	    
-	    //size descriptor
-	    //orientation descriptor, modality descriptor
-	    //imaging modality
+	    //Observation Size: "size descriptor"
+	    //Image Location: "orientation descriptor", "modality descriptor"
 	    
-	    String concept = "Uncertainty";
-		String[] roots = {"certainty descriptor"};
+	    String concept = "Modality";
+		String[] roots = {"imaging modality"};
 		
 		for (String root : roots) {
 			for (OWLNamedIndividual i : o.getIndividualsInSignature()) {
@@ -124,35 +118,24 @@ public class ParseHierarchy {
 			}
 		}
 
-		PrintWriter pw = new PrintWriter(concept + ".txt", "UTF-8");
+		PrintWriter pw = new PrintWriter("Gazette/" + concept + ".txt", "UTF-8");
 		for (String e : dictionary) {
-			pw.println(e+"."+concept);
+			pw.println(concept + " " + e);
 		}
 		pw.close();
 	}
 	
-	public void helperMethod(OWLOntology o) {
-		for (OWLClass cls : o.getClassesInSignature()) {
-			System.out.println(cls);
+	static String toCamelCase(String s) {
+		String[] parts = s.split("\\s+");
+		String camelCaseString = "";
+		for (String part : parts) {
+			camelCaseString += toProperCase(part) + " ";
 		}
+		return camelCaseString.trim();
+	}
 
-		for (OWLDataProperty dp : o.getDataPropertiesInSignature()) {
-			System.out.println(dp);
-		}
-
-		for (OWLNamedIndividual ni : o.getIndividualsInSignature()) {
-			System.out.println(ni);
-
-		}
-
-		for (OWLClass cls : o.getClassesInSignature()) {
-			for (OWLIndividual indv : cls.getIndividualsInSignature()) {
-				System.out.println(indv);
-				for (OWLDataProperty dv : indv.getDataPropertiesInSignature()) {
-					System.out.println(dv);
-				}
-			}
-		}
+	static String toProperCase(String s) {
+		return s.substring(0, 1).toUpperCase() + s.substring(1).toLowerCase();
 	}
 
 }
