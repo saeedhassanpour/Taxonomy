@@ -90,8 +90,8 @@ public class ParseHierarchytoGazette {
 	    //Observation Size: "size descriptor"
 	    //Image Location: "orientation descriptor", "modality descriptor"
 	    
-	    String concept = "Modality";
-		String[] roots = {"imaging modality"};
+	    String concept = "Uncertainty";
+		String[] roots = {"certainty descriptor"};
 		
 		for (String root : roots) {
 			for (OWLNamedIndividual i : o.getIndividualsInSignature()) {
@@ -118,6 +118,7 @@ public class ParseHierarchytoGazette {
 			}
 		}
 
+		//System.out.println(dictionary.size());
 		PrintWriter pw = new PrintWriter("Gazette/" + concept + ".txt", "UTF-8");
 		for (String e : dictionary) {
 			pw.println(concept + " " + e);
